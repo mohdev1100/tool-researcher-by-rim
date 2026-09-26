@@ -71,7 +71,7 @@ _فحص 2026-09-26_
 | `who-afro-mauritania-publications` — WHO Regional Office for Africa — Mauritania publications | not-modified | 304 | 0 | 0 |  |  |
 | `fao-giews-country-brief-mauritania` — FAO GIEWS — Country Brief Mauritania (single page, new issue per reference date) | ok | 200 | 1 | 0 | 2025-09-09 |  |
 | `ohchr-treaty-bodies-mauritania` — OHCHR Treaty Body Database — Mauritania documents (all treaties) | ok | 200 | 324 | 1 | 2026-01-09 |  |
-| `unsdg-mauritania-key-documents` — UNSDG — UN in Mauritania key documents (CCA, Cooperation Framework, annual UNCT results) | ok | 200 | 13 | 1 | 2026-03-31 |  |
+| `unsdg-mauritania-key-documents` — UNSDG — UN in Mauritania key documents (CCA, Cooperation Framework, annual UNCT results) | not-modified | 304 | 0 | 0 |  |  |
 | `unfpa-mauritania-publications` — UNFPA Mauritania — publications | ok | 200 | 9 | 9 |  |  |
 | `unicef-mauritania-research-reports` — UNICEF Mauritania — Recherches et rapports | not-modified | 304 | 0 | 0 |  |  |
 | `ilo-mauritania-publications` — ILO — all publications for Mauritania | not-modified | 304 | 0 | 0 |  |  |
@@ -112,7 +112,7 @@ _فحص 2026-09-26_
 | `amnesty-mauritania-country-page` — Amnesty International — Mauritania country page (documents) | ok | 200 | 8 | 0 | 2020-12-10 |  |
 | `freedom-house-fiw-mauritania` — Freedom House — Freedom in the World: Mauritania | not-modified | 304 | 0 | 0 |  |  |
 | `civicus-monitor-mauritania` — CIVICUS Monitor — Mauritania civic space updates | ok | 200 | 6 | 3 | 2026-05-19 |  |
-| `transparency-international-mauritania` — Transparency International — Mauritania (CPI score, news and publications) | not-modified | 304 | 0 | 0 |  |  |
+| `transparency-international-mauritania` — Transparency International — Mauritania (CPI score, news and publications) | ok | 200 | 8 | 1 | 2025-02-11 |  |
 | `walk-free-gsi-mauritania` — Walk Free — site search: Mauritania (Global Slavery Index) | ok | 200 | 4 | 0 | 2023-01-01 |  |
 | `fidh-mauritania-page` — FIDH — Mauritania page (reports, statements, urgent appeals) | ok | 200 | 8 | 1 | 2026-07-30 |  |
 | `front-line-defenders-mauritania` — Front Line Defenders — Mauritania cases | ok | 200 | 7 | 0 | 2025-11-21 |  |
@@ -125,7 +125,7 @@ _فحص 2026-09-26_
 | `gpe-mauritania-country-page` — Global Partnership for Education — library documents filtered to Mauritania | not-modified | 304 | 0 | 0 |  |  |
 | `unesco-gem-report-publications` — UNESCO GEM Report — publications landing page (global, keyword filter) | not-modified | 304 | 0 | 0 |  |  |
 | `ep-thinktank-mauritania-search` — European Parliament Think Tank — full-text search results for "Mauritania" | ok | 202 | 0 | 0 |  |  |
-| `eeas-delegation-mauritania` — EU Delegation to Mauritania — publications section of the delegation page | not-modified | 304 | 0 | 0 |  |  |
+| `eeas-delegation-mauritania` — EU Delegation to Mauritania — publications section of the delegation page | ok | 200 | 13 | 0 |  |  |
 | `ec-intpa-mauritania` — European Commission DG INTPA — Mauritania country page (programming and action documents) | ok | 200 | 8 | 0 | 2025-12-16 |  |
 | `ilo-mauritania` — ILO — Mauritania country page (news, project and publication cards) | not-modified | 304 | 0 | 0 |  |  |
 | `giwps-wps-index` — Georgetown GIWPS — Women, Peace and Security Index (report PDFs) | ok | 200 | 4 | 0 | 2025-10-01 |  |
@@ -145,7 +145,7 @@ _فحص 2026-09-26_
 | `ecfr-posts-search-api` — ECFR — posts (commentary, policy briefs) matching Mauritania (WordPress REST) | ok | 200 | 20 | 1 | 2026-03-06 |  |
 | `atlantic-council-search-api` — Atlantic Council — posts matching Mauritania (blogs, issue briefs, reports; WordPress REST) | ok | 200 | 20 | 1 | 2026-02-24 |  |
 | `iris-france-search-api` — IRIS — analyses matching Mauritanie (WordPress REST) | ok | 200 | 20 | 2 | 2026-09-15 |  |
-| `pomeps-search-api` — POMEPS — posts matching Mauritania (POMEPS Studies chapters, memos; WordPress REST) | error | 202 |  | 0 |  | no usable response (fetch 202 text/html 318 chars; fetch:browser-ua 202 text/html 318 chars; curl 202 text/html 318 chars) |
+| `pomeps-search-api` — POMEPS — posts matching Mauritania (POMEPS Studies chapters, memos; WordPress REST) | ok | 200 | 20 | 6 | 2026-05-11 |  |
 | `egmont-institute-posts-api` — Egmont Institute — publications matching Sahel (papers, policy briefs, commentaries; WordPress REST) | ok | 200 | 20 | 3 | 2026-09-01 |  |
 | `csis-africa-program` — CSIS — Africa Program analysis (commentaries, reports; keyword-filtered) | not-modified | 304 | 0 | 0 |  |  |
 | `brookings-africa-region` — Brookings — Africa region page (featured articles; keyword-filtered) | ok | 200 | 4 | 0 | 2026-09-18 |  |
