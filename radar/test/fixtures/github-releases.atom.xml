@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/nodejs/node/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/nodejs/node/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/nodejs/node/releases.atom"/>
+  <title>Release notes from node</title>
+  <updated>2026-09-23T16:53:01Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/27193779/v22.23.3</id>
+    <updated>2026-09-23T18:21:37Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/nodejs/node/releases/tag/v22.23.3"/>
+    <title>2026-09-23, Version 22.23.3 &#39;Jod&#39; (LTS), @aduh95 prepared by @juanarbol</title>
+    <content type="html">&lt;h3&gt;Notable Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href=&quot;https://github.com/nodejs/node/commit/fe2a6b2be8&quot;&gt;&lt;code&gt;fe2a6b2be8&lt;/code&gt;&lt;/a&gt;] - &lt;strong&gt;crypto&lt;/strong&gt;: update root certificates to NSS 3.125 (Node.js GitHub Bot) &lt;a href=&quot;https://github.com/nodejs/node/pull/64746&quot; data-hovercard-type=&quot;pull_request&quot; data-hoverc</content>
+    <author>
+      <name>aduh95</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/14309773?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/27193779/v26.10.0</id>
+    <updated>2026-09-22T09:02:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/nodejs/node/releases/tag/v26.10.0"/>
+    <title>2026-09-22, Version 26.10.0 (Current), @aduh95</title>
+    <content type="html">&lt;h3&gt;Notable Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href=&quot;https://github.com/nodejs/node/commit/c0a42d23e5&quot;&gt;&lt;code&gt;c0a42d23e5&lt;/code&gt;&lt;/a&gt;] - &lt;strong&gt;(SEMVER-MINOR)&lt;/strong&gt; &lt;strong&gt;crypto&lt;/strong&gt;: add crypto.parsePKCS12() (Brian Muenzenmeyer) &lt;a href=&quot;https://github.com/nodejs/node/pull/65627&quot; data-hovercard-type=&quot</content>
+    <author>
+      <name>aduh95</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/14309773?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/27193779/v26.9.0</id>
+    <updated>2026-09-16T18:16:39Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/nodejs/node/releases/tag/v26.9.0"/>
+    <title>2026-09-16, Version 26.9.0 (Current), @aduh95</title>
+    <content type="html">&lt;h3&gt;Notable Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href=&quot;https://github.com/nodejs/node/commit/d414624dce&quot;&gt;&lt;code&gt;d414624dce&lt;/code&gt;&lt;/a&gt;] - &lt;strong&gt;(SEMVER-MINOR)&lt;/strong&gt; &lt;strong&gt;crypto&lt;/strong&gt;: add a generic MAC API (Filip Skokan) &lt;a href=&quot;https://github.com/nodejs/node/pull/65553&quot; data-hovercard-type=&quot;pull_req</content>
+    <author>
+      <name>aduh95</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/14309773?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/27193779/v26.8.2</id>
+    <updated>2026-09-09T16:07:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/nodejs/node/releases/tag/v26.8.2"/>
+    <title>2026-09-09, Version 26.8.2 (Current), @aduh95</title>
+    <content type="html">&lt;h3&gt;Notable Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href=&quot;https://github.com/nodejs/node/commit/616bd3fa26&quot;&gt;&lt;code&gt;616bd3fa26&lt;/code&gt;&lt;/a&gt;] - &lt;strong&gt;doc&lt;/strong&gt;: deprecate &lt;code&gt;Server.prototype._listen2&lt;/code&gt; in &lt;code&gt;node:net&lt;/code&gt; (Antoine du Hamel) &lt;a href=&quot;https://github.com/nodejs/node/pull/65593&quot; d</content>
+    <author>
+      <name>aduh95</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/14309773?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/27193779/v24.21.0</id>
+    <updated>2026-09-08T21:51:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/nodejs/node/releases/tag/v24.21.0"/>
+    <title>2026-09-08, Version 24.21.0 &#39;Krypton&#39; (LTS), @aduh95</title>
+    <content type="html">&lt;h3&gt;Notable Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href=&quot;https://github.com/nodejs/node/commit/71106e1f17&quot;&gt;&lt;code&gt;71106e1f17&lt;/code&gt;&lt;/a&gt;] - &lt;strong&gt;crypto&lt;/strong&gt;: update root certificates to NSS 3.126 (Node.js GitHub Bot) &lt;a href=&quot;https://github.com/nodejs/node/pull/65495&quot; data-hovercard-type=&quot;pull_request&quot; data-hoverc</content>
+    <author>
+      <name>aduh95</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/14309773?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/27193779/v26.8.1</id>
+    <updated>2026-08-26T22:10:37Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/nodejs/node/releases/tag/v26.8.1"/>
+    <title>2026-08-26, Version 26.8.1 (Current), @aduh95</title>
+    <content type="html">&lt;h3&gt;Notable Changes&lt;/h3&gt;
+&lt;p&gt;Out-of-band release to fix &lt;code&gt;node --version&lt;/code&gt; which was reporting an alpha version.&lt;/p&gt;
+&lt;h3&gt;Commits&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href=&quot;https://github.com/nodejs/node/commit/ebd35a9eec&quot;&gt;&lt;code&gt;ebd35a9eec&lt;/code&gt;&lt;/a&gt;] - &lt;strong&gt;src&lt;/strong&gt;: revert accidental alpha design</content>
+    <author>
+      <name>aduh95</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/14309773?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/27193779/v26.8.0</id>
+    <updated>2026-08-26T14:28:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/nodejs/node/releases/tag/v26.8.0"/>
+    <title>2026-08-26, Version 26.8.0 (Current), @aduh95</title>
+    <content type="html">&lt;h3&gt;Notable Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href=&quot;https://github.com/nodejs/node/commit/74234ee30e&quot;&gt;&lt;code&gt;74234ee30e&lt;/code&gt;&lt;/a&gt;] - &lt;strong&gt;(SEMVER-MINOR)&lt;/strong&gt; &lt;strong&gt;benchmark&lt;/strong&gt;: add --analyze mode to compare.js (James M Snell) &lt;a href=&quot;https://github.com/nodejs/node/pull/65416&quot; data-hovercard-type</content>
+    <author>
+      <name>aduh95</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/14309773?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/27193779/v24.20.0</id>
+    <updated>2026-08-26T14:28:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/nodejs/node/releases/tag/v24.20.0"/>
+    <title>2026-08-26, Version 24.20.0 &#39;Krypton&#39; (LTS), @aduh95</title>
+    <content type="html">&lt;h3&gt;Notable Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href=&quot;https://github.com/nodejs/node/commit/b12bcc9ae1&quot;&gt;&lt;code&gt;b12bcc9ae1&lt;/code&gt;&lt;/a&gt;] - &lt;strong&gt;(SEMVER-MINOR)&lt;/strong&gt; &lt;strong&gt;async_hooks&lt;/strong&gt;: add &lt;code&gt;using&lt;/code&gt; scopes to &lt;code&gt;AsyncLocalStorage&lt;/code&gt; (Stephen Belanger) &lt;a href=&quot;https:/</content>
+    <author>
+      <name>aduh95</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/14309773?s=60&amp;v=4"/>
+  </entry>
+</feed>

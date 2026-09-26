@@ -1,0 +1,70 @@
+name: tool-researcher
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # daily 06:00 UTC (06:00 Nouakchott)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'radar/sources.json'
+      - 'radar/config.json'
+      - 'radar/lib/**'
+      - 'radar/radar.mjs'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: tool-researcher
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      # Zero dependencies: nothing to install. Playwright (the last-resort browser fetcher) is absent here.
+      - name: Run the radar
+        env:
+          RADAR_RUNNER: github            # sources with "skip_on": ["github"] refuse datacenter addresses and are left to the local run
+          RADAR_TELEGRAM_TOKEN: ${{ secrets.RADAR_TELEGRAM_TOKEN }}
+          RADAR_TELEGRAM_CHAT: ${{ secrets.RADAR_TELEGRAM_CHAT }}
+          RADAR_WEBHOOK_URL: ${{ secrets.RADAR_WEBHOOK_URL }}
+          S2_API_KEY: ${{ secrets.S2_API_KEY }}          # optional: lifts Semantic Scholar's shared-IP rate limit
+          CORE_API_KEY: ${{ secrets.CORE_API_KEY }}      # optional: "Bearer <key>" for CORE
+        run: node radar/radar.mjs run --notify --no-browser
+      - name: Commit the refreshed data and outputs
+        run: |
+          git config user.name "tool-researcher"
+          git config user.email "tool-researcher@users.noreply.github.com"
+          git add radar/data radar/out
+          if git diff --cached --quiet; then
+            echo "nothing new"
+          else
+            git commit -m "researcher: $(date -u +%F) run"
+            git pull --rebase --autostash origin main
+            git push
+          fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: radar/out
+
+  deploy:
+    needs: run
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,14 @@
+{
+  "name": "tool-researcher-by-rim",
+  "version": "1.0.0",
+  "description": "Tool Researcher by RIM — daily radar of new reports about Mauritania",
+  "private": true,
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "radar": "node radar/radar.mjs run",
+    "check": "node radar/radar.mjs check --verbose",
+    "brief": "node radar/radar.mjs brief --days 7",
+    "test": "node --test radar/test/*.test.mjs"
+  },
+  "license": "UNLICENSED"
+}

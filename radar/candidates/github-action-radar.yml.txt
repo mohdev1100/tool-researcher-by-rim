@@ -1,0 +1,60 @@
+name: report-radar
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # daily 06:00 UTC (06:00 Nouakchott)
+  workflow_dispatch:
+    inputs:
+      notify:
+        description: 'send the Telegram / webhook notification'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: report-radar
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      # No npm install: the radar has zero dependencies. Playwright (browser fallback) is optional and absent here.
+      - name: Run the radar
+        env:
+          RADAR_TELEGRAM_TOKEN: ${{ secrets.RADAR_TELEGRAM_TOKEN }}
+          RADAR_TELEGRAM_CHAT: ${{ secrets.RADAR_TELEGRAM_CHAT }}
+          RADAR_WEBHOOK_URL: ${{ secrets.RADAR_WEBHOOK_URL }}
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event.inputs.notify }}" = "true" ]; then
+            node radar/radar.mjs run --notify --no-browser
+          else
+            node radar/radar.mjs run --no-browser
+          fi
+      - name: Commit the new data and outputs
+        run: |
+          git config user.name "report-radar"
+          git config user.email "report-radar@users.noreply.github.com"
+          git add radar/data radar/out
+          if git diff --cached --quiet; then
+            echo "nothing new"
+          else
+            git commit -m "radar: $(date -u +%F) run"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push
+          fi
+      - name: Keep the digest as a downloadable artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: radar-${{ github.run_id }}
+          path: |
+            radar/out/digest.md
+            radar/out/index.html
+          retention-days: 30
