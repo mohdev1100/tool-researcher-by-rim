@@ -2,125 +2,35 @@
 أدناه ما رصدته أداتنا (Tool Researcher by RIM) آليًا من مصادر مؤسسية وبحثية موثوقة. كل عنصر: العنوان كما نشره الناشر، الناشر، تاريخ الوثيقة (أو يوم الرصد إن لم يُذكر)، الرابط، ملخص قصير إن وُجد.
 المطلوب منك: (1) لخّص المشهد في فقرة؛ (2) جمّع العناصر في محاور موضوعية واذكر أهم 5–10 تقارير تستحق مراجعة كاملة مع سبب الاختيار؛ (3) أشر إلى ما يبدو مكرّرًا أو ثانويًا؛ (4) اقترح ما ينقص الرصد (جهات أو موضوعات غائبة). لا تختلق تقارير غير مذكورة هنا؛ إن احتجت معلومة غير موجودة فقل ذلك.
 
-# موجز الرادار — 2026-10-04
-النافذة: ما رُصد خلال آخر 7 يومًا (عن موريتانيا مباشرة). العدد: 105.
+# موجز الرادار — 2026-10-05
+النافذة: ما رُصد خلال آخر 7 يومًا (عن موريتانيا مباشرة). العدد: 99.
 
-## اقتصاد (30)
-- وزير التعليم العالي يستعرض في برنامج “المساءلة” حصيلة القطاع وخطط توسيع مؤسساته وتعزيز التكوين والبحث العلمي — الوكالة الموريتانية للأنباء / Agence Mauritanienne d'Information (AMI) — 2026-10-04
-  https://www.ami.mr/archives/269795
-  أكد معالي وزير التعليم العالي والبحث العلمي، السيد يعقوب ولد أمين، أن قطاع التعليم العالي والبحث العلمي شهد تطورا ملحوظا، تجسّد في توسيع البنية المؤسسية، وتعزيز فرص الولوج إلى التعليم العالي، وتنويع العروض الأكاديمية،…
-- بعثة أعمال أمريكية تصل موريتانيا لبحث فرص الاستثمار في قطاعات استراتيجية — صحيفة تقدمي الإلكترونية / Taqadoumy — 2026-10-03
-  https://ar.taqadoumy.mr/archives/86392
-  The post بعثة أعمال أمريكية تصل موريتانيا لبحث فرص الاستثمار في قطاعات استراتيجية appeared first on صحيفة تقدمي الألكترونية .
-- وزارة الزراعة توضح مهام الفرق المكلفة بإعداد الخرائط الإحصائية — الوكالة الموريتانية للأنباء / Agence Mauritanienne d'Information (AMI) — 2026-10-01
-  https://www.ami.mr/archives/269661
-  أكدت وزارة الزراعة والسيادة الغذائية أنه، في إطار التحضير للتعداد العام للزراعة 2026، أوفدت الوزارة، بالتعاون مع الوكالة الوطنية للإحصاء والتحليل الديمغرافي والاقتصادي، فرقا فنية إلى مختلف مناطق البلاد، من أجل إعداد…
-- وزير الاقتصاد وسفير فرنسا يبحثان مراجعة علاقات التعاون الاقتصادي — وكالة الأخبار المستقلة / Alakhbar.info — 2026-10-01
-  https://www.alakhbar.info/6abea44d275b010001e7cc31/
-  الأخبار (نواكشوط) - بحث وزير الشؤون الاقتصادية والتنمية، الدك
-- Note sur la croissance économique au deuxième trimestre 2026 — الوكالة الوطنية للإحصاء والتحليل الديمغرافي والاقتصادي / ANSADE — 2026-09-30 — publication
-  https://admin.ansade.mr/publications/note-sur-la-croissance-economique-au-deuxieme-trimestre-2026/
-- Mauritania - Agriculture and Rural Development — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-agriculture-and-rural-development-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. For…
-- Mauritania - Aid Effectiveness — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-aid-effectiveness-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. Aid…
-- Mauritania - Economy and Growth — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-economy-and-growth-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
-- Mauritania - Education — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-education-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
-- Mauritania - Energy and Mining — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-energy-and-mining-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. The…
-- Mauritania - Environment — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-environment-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
-- Mauritania - Financial Sector — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-financial-sector-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. An…
-- Mauritania - Health — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-health-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
-- Mauritania - Infrastructure — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-infrastructure-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
-- Mauritania - Social Protection and Labor — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-social-protection-and-labor-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. The…
-- Mauritania - Poverty — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-poverty-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. For…
-- Mauritania - Private Sector — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-private-sector-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
-- Mauritania - Public Sector — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-public-sector-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
-- Mauritania - Science and Technology — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-science-and-technology-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
-- Mauritania - Social Development — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-social-development-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. Data…
-- Mauritania - Urban Development — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-urban-development-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
-- Mauritania - Gender — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-gender-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
-- Mauritania - Millenium development goals — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-millenium-development-goals-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.
-- Mauritania - Climate Change — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-climate-change-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
-- Mauritania - External Debt — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-external-debt-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. Debt…
-- Mauritania - Trade — World Bank Group — 2026-09-29 — dataset
-  https://data.humdata.org/dataset/world-bank-trade-indicators-for-mauritania
-  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. Trade…
-- Topline Indicators — World Bank Group — 2026-09-28 — dataset
-  https://data.humdata.org/dataset/world-bank-country-topline-indicators
-  Data used to update country toplines in HDX. Contains data from World Bank's [data portal](http://data.worldbank.org/).
-- كينروس تخفض توقعات إنتاج الذهب في 2026 رغم ارتفاع إنتاج تازيازت — صحيفة تقدمي الإلكترونية / Taqadoumy — 2026-09-26
-  https://ar.taqadoumy.mr/archives/85831
-  قالت وكالة Ecofin إن شركة كينروس غولد الكندية خفضت توقعاتها لإنتاج الذهب خلال عام 2026 إلى ما بين 1.84 و1.86 مليون أونصة، مقارنة بالأهداف الأولية، رغم تسجيل إنتاج منجم تازيازت الموريتاني زيادة بنسبة 2 في المائة على أساس…
-- Concentration And Distribution of Container Flows In Mauritania's Maritime System (2019-2022) — arXiv.org — 2026-03-26 — paper
-  https://www.semanticscholar.org/paper/28312a7c6afc7dcb964e4984fea37f4b05ecbe2a
-  Small, trade-dependent economies often exhibit limited maritime connectivity, yet empirical evidence on the structural configuration of their container systems remains limited. This study analyzes route concentration…
-- MAURITANIA: World Bank CPF — Africa Research Bulletin: Economic, Financial and Technical Series — 2026-01-01 — paper
-  https://www.semanticscholar.org/paper/d2199e094875aaa0c20a51b9ad82951a0a2a7693 · PDF: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1467-6346.2026.12447.x
-
-## متفرقات (30)
+## متفرقات (28)
 - لجنة تحقيق حرائق "صوملك" أكملت تقريرها وجهزته للتسليم — وكالة الأخبار المستقلة / Alakhbar.info — 2026-10-04
   https://www.alakhbar.info/6ac22910275b010001e7ce48/
   الأخبار (نواكشوط) – كشفت مصادر خاصة لوكالة الأخبار المستقلة أ
-- Reply on RC2 — أوبن أليكس / OpenAlex — 2026-10-01 — peer-review
-  https://doi.org/10.5194/egusphere-2026-3901-ac2
 - Reply on RC1 — أوبن أليكس / OpenAlex — 2026-10-01 — peer-review
   https://doi.org/10.5194/egusphere-2026-3901-ac1
-- Ursula Reutner (ed.), Manual of Romance Languages in Africa, Berlin, Boston: De Gruyter, 2024, 870 p. — Studia Universitatis Babeş-Bolyai. Philologia — 2026-10-01 — journal-article
-  https://studia.reviste.ubbcluj.ro/index.php/subbphilologia/article/view/10752
-  Publicado na série Manuals of Romance Linguistics da De Gruyter, coordenada há mais de uma década por Günter Holtus (Georg-August Universität Göttingen) e Fernando Sánchez-Miret (Universidad de Salamanca), o volume…
+- Reply on RC2 — أوبن أليكس / OpenAlex — 2026-10-01 — peer-review
+  https://doi.org/10.5194/egusphere-2026-3901-ac2
 - بيــــــــــان إعلامــــــــــي — اللجنة الوطنية لحقوق الإنسان / Commission Nationale des Droits de l'Homme (Mauritanie) — 2026-10-01 — report
   https://cndh.mr/reports/1075
   COMMUNIQUÉ D’INFORMATION
-- Voluntary repatriation and the participation of Mauritanian refugees — University of Oxford — 2026-09-30 — other
-  https://doi.org/10.25446/oxford.33351903
-- Forced Migration Review 2010, No. 34 — University of Oxford — 2026-09-30 — other
-  https://doi.org/10.25446/oxford.33351714
-- Refugees' food acquisition strategies in times of inadequate rations: the case of Mauritanian refugees in Senegal — University of Oxford — 2026-09-30 — other
-  https://doi.org/10.25446/oxford.33382546.v1
-- Report on the situation of refugees in Mauritania: findings of a three-week exploratory study, October-November 2002 — University of Oxford — 2026-09-30 — other
-  https://doi.org/10.25446/oxford.33358581
-- Official Documents- Disbursement and Financial Information Letter for Grant E7830-MR.pdf — البنك الدولي / World Bank — 2026-09-30 — Disbursement Letter
-  http://documents.worldbank.org/curated/en/099093026135041599 · PDF: https://documents.worldbank.org/curated/en/099093026135041599/pdf/P519316-36b8ce15-315d-4bdb-886f-f103df0c2a1b.pdf
+- Ursula Reutner (ed.), Manual of Romance Languages in Africa, Berlin, Boston: De Gruyter, 2024, 870 p. — Studia Universitatis Babeş-Bolyai. Philologia — 2026-10-01 — journal-article
+  https://studia.reviste.ubbcluj.ro/index.php/subbphilologia/article/view/10752
+  Publicado na série Manuals of Romance Linguistics da De Gruyter, coordenada há mais de uma década por Günter Holtus (Georg-August Universität Göttingen) e Fernando Sánchez-Miret (Universidad de Salamanca), o volume…
 - Official Documents- Letter Agreement for Grant E7830-MR.pdf — البنك الدولي / World Bank — 2026-09-30 — Agreement
   http://documents.worldbank.org/curated/en/099093026135041894 · PDF: https://documents.worldbank.org/curated/en/099093026135041894/pdf/P519316-786f87ad-81c2-4860-8bd2-99e841851d7a.pdf
+- Official Documents- Disbursement and Financial Information Letter for Grant E7830-MR.pdf — البنك الدولي / World Bank — 2026-09-30 — Disbursement Letter
+  http://documents.worldbank.org/curated/en/099093026135041599 · PDF: https://documents.worldbank.org/curated/en/099093026135041599/pdf/P519316-36b8ce15-315d-4bdb-886f-f103df0c2a1b.pdf
+- Report on the situation of refugees in Mauritania: findings of a three-week exploratory study, October-November 2002 — University of Oxford — 2026-09-30 — other
+  https://doi.org/10.25446/oxford.33358581
+- Refugees' food acquisition strategies in times of inadequate rations: the case of Mauritanian refugees in Senegal — University of Oxford — 2026-09-30 — other
+  https://doi.org/10.25446/oxford.33382546.v1
+- Forced Migration Review 2010, No. 34 — University of Oxford — 2026-09-30 — other
+  https://doi.org/10.25446/oxford.33351714
+- Voluntary repatriation and the participation of Mauritanian refugees — University of Oxford — 2026-09-30 — other
+  https://doi.org/10.25446/oxford.33351903
 - CO2 Emissions in West Africa — Mendeley Data — 2026-09-29 — dataset
   https://doi.org/10.17632/st57jpchpb.2
 - CARDAMOM: A Micro-Dialectal Arabic Speech Dataset for ASR — arXiv (Cornell University) — 2026-09-28 — preprint
@@ -130,22 +40,15 @@
   Cooperation between Spain and the Maghreb states in the area of defence represents a sphere that includes long-term historical links (for example, with Morocco) with other relations that have been developing in recent…
 - From Barriers to Action: A Policy Roadmap for the Responsible Adoption of Artificial Intelligence in West African Public Institutions: A Scoping Review Protocol — Open Science Framework — 2026-09-27 — other
   https://doi.org/10.17605/osf.io/qcyrz
+- Critical funding needs across the Middle East and North Africa - September 2026 — المفوضية السامية للأمم المتحدة لشؤون اللاجئين / UNHCR — 2026-09-27
+  https://data.unhcr.org/en/documents/details/124255 · PDF: https://data.unhcr.org/en/documents/download/124255
 - ناشطون يناقشون سياسة الدولة تجاه الفئات الهشة بمقطع لحجار — وكالة الأخبار المستقلة / Alakhbar.info — 2026-09-27
   https://www.alakhbar.info/6ab9a0a8c831fb0001731e22/
   الأخبار (نواكشوط) - ناقش عددٌ من الفاعلين والنشطاء السياسيين،
-- Critical funding needs across the Middle East and North Africa - September 2026 — المفوضية السامية للأمم المتحدة لشؤون اللاجئين / UNHCR — 2026-09-27
-  https://data.unhcr.org/en/documents/details/124255 · PDF: https://data.unhcr.org/en/documents/download/124255
-- A new octocoral species of Swiftia (Holaxonia, Plexauridae) from the upper bathyal off Mauritania (NE Atlantic) — The Catalogue of Life — 2026-09-26 — dataset
-  https://doi.org/10.48580/d54n6.v24
 - A new species of Thelepus (Annelida, Terebelliformia) from Banc d’Arguin, Mauritania, and its associated scaleworm Lepidonotus hupferi Augener, 1918 (Annelida, Polynoidae) — The Catalogue of Life — 2026-09-26 — dataset
   https://doi.org/10.48580/dgxbk.v2
-- بنت خطري: خطاب غزواني الأخير تميز بعمق التحليل والمصارحة — وكالة الأخبار المستقلة / Alakhbar.info — 2026-09-26
-  https://www.alakhbar.info/6ab7f725c831fb0001731c91/
-  الأخبار (نواكشوط) - وصفت مفوضية الأمن الغذائي فاطمه بنت خطري، خ
-- Two new species of Acmaeodera Eschscholtz, 1829 from the Arabian Peninsula and Mauritania (Coleoptera: Buprestidae: Polycestinae: Acmaeoderini) — The Catalogue of Life — 2026-09-25 — dataset
-  https://doi.org/10.48580/d3395.v80
-- Germline Genetics of Breast Cancer in North Africa: Insights from Whole-Exome Sequencing — Libyan International Medical University Journal — 2026-09-25 — article
-  https://doi.org/10.1055/s-0046-1829027
+- A new octocoral species of Swiftia (Holaxonia, Plexauridae) from the upper bathyal off Mauritania (NE Atlantic) — The Catalogue of Life — 2026-09-26 — dataset
+  https://doi.org/10.48580/d54n6.v24
 - Ce que cache l'accord migratoire UE-Mauritanie — VBN Forskningsportal (Aalborg Universitet) — 2026-09-22 — other
   https://afriquesplus.com/article/ce-que-cache-laccord-migratoire-ue-mauritanie
 - Optimizing decision-making, implementation, and monitoring to maximize the impact of the transition from pentavalent + IPV to hexavalent vaccine in Mauritania — Elsevier BV — 2026-09-01 — journal-article
@@ -156,6 +59,8 @@
   https://www.marine-research-journal.org/index.php/cmrm/article/view/607
 - Quelques observations sur les résultats de pèche des chalutiers roumains dans les eaux de la république islamique de Mauritanie durant la campagne de 1975 — Cercetări Marine - Recherches Marines — 2026-06-03 — article
   https://www.marine-research-journal.org/index.php/cmrm/article/view/542
+- Du désert géographique au désert symbolique : mémoire, esthétique et méditation dans la poésie de Léopold Sédar Senghor — مجلة اركاديا مجلة علمية محكمة دولية — 2026-05-04 — book
+  https://arcadia.ma/index.php/index/article/view/156
 - 2025 Annual Performance Report for FP268: Scaling-Up Resilience in Africa’s Great Green Wall (SURAGGWA) — صندوق المناخ الأخضر / Green Climate Fund — 2026-04-15
   https://www.greenclimate.fund/document/2025-annual-performance-report-fp268-scaling-resilience-africas-great-green-wall-suraggwa
   Annual Performance Report
@@ -165,7 +70,95 @@
 - Multiannual Indicative Programme 2021-2027 for Mauritania - decision (French) — المفوضية الأوروبية — المديرية العامة للشراكات الدولية / European Commission (International Partnerships) — رُصد 2026-09-30
   https://international-partnerships.ec.europa.eu/document/download/3b15bdfb-43e9-415d-b8ff-5ecdebf2fde9_en?filename=mip-2021-c2021-9245-mauritania-decision_fr.pdf
 
-## صحة (10)
+## اقتصاد (27)
+- وزير التعليم العالي يستعرض في برنامج “المساءلة” حصيلة القطاع وخطط توسيع مؤسساته وتعزيز التكوين والبحث العلمي — الوكالة الموريتانية للأنباء / Agence Mauritanienne d'Information (AMI) — 2026-10-04
+  https://www.ami.mr/archives/269795
+  أكد معالي وزير التعليم العالي والبحث العلمي، السيد يعقوب ولد أمين، أن قطاع التعليم العالي والبحث العلمي شهد تطورا ملحوظا، تجسّد في توسيع البنية المؤسسية، وتعزيز فرص الولوج إلى التعليم العالي، وتنويع العروض الأكاديمية،…
+- بعثة أعمال أمريكية تصل موريتانيا لبحث فرص الاستثمار في قطاعات استراتيجية — صحيفة تقدمي الإلكترونية / Taqadoumy — 2026-10-03
+  https://ar.taqadoumy.mr/archives/86392
+  The post بعثة أعمال أمريكية تصل موريتانيا لبحث فرص الاستثمار في قطاعات استراتيجية appeared first on صحيفة تقدمي الألكترونية .
+- وزير الاقتصاد وسفير فرنسا يبحثان مراجعة علاقات التعاون الاقتصادي — وكالة الأخبار المستقلة / Alakhbar.info — 2026-10-01
+  https://www.alakhbar.info/6abea44d275b010001e7cc31/
+  الأخبار (نواكشوط) - بحث وزير الشؤون الاقتصادية والتنمية، الدك
+- وزارة الزراعة توضح مهام الفرق المكلفة بإعداد الخرائط الإحصائية — الوكالة الموريتانية للأنباء / Agence Mauritanienne d'Information (AMI) — 2026-10-01
+  https://www.ami.mr/archives/269661
+  أكدت وزارة الزراعة والسيادة الغذائية أنه، في إطار التحضير للتعداد العام للزراعة 2026، أوفدت الوزارة، بالتعاون مع الوكالة الوطنية للإحصاء والتحليل الديمغرافي والاقتصادي، فرقا فنية إلى مختلف مناطق البلاد، من أجل إعداد…
+- Note sur la croissance économique au deuxième trimestre 2026 — الوكالة الوطنية للإحصاء والتحليل الديمغرافي والاقتصادي / ANSADE — 2026-09-30 — publication
+  https://admin.ansade.mr/publications/note-sur-la-croissance-economique-au-deuxieme-trimestre-2026/
+- Mauritania - Trade — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-trade-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. Trade…
+- Mauritania - External Debt — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-external-debt-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. Debt…
+- Mauritania - Climate Change — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-climate-change-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
+- Mauritania - Millenium development goals — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-millenium-development-goals-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.
+- Mauritania - Gender — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-gender-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
+- Mauritania - Urban Development — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-urban-development-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
+- Mauritania - Social Development — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-social-development-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. Data…
+- Mauritania - Science and Technology — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-science-and-technology-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
+- Mauritania - Public Sector — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-public-sector-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
+- Mauritania - Private Sector — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-private-sector-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
+- Mauritania - Poverty — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-poverty-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. For…
+- Mauritania - Social Protection and Labor — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-social-protection-and-labor-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. The…
+- Mauritania - Infrastructure — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-infrastructure-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
+- Mauritania - Health — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-health-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
+- Mauritania - Financial Sector — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-financial-sector-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. An…
+- Mauritania - Environment — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-environment-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
+- Mauritania - Energy and Mining — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-energy-and-mining-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. The…
+- Mauritania - Education — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-education-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
+- Mauritania - Economy and Growth — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-economy-and-growth-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX.…
+- Mauritania - Aid Effectiveness — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-aid-effectiveness-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. Aid…
+- Mauritania - Agriculture and Rural Development — World Bank Group — 2026-09-29 — dataset
+  https://data.humdata.org/dataset/world-bank-agriculture-and-rural-development-indicators-for-mauritania
+  Contains data from the World Bank's [data portal](http://data.worldbank.org/). There is also a [consolidated country dataset](https://data.humdata.org/dataset/world-bank-combined-indicators-for-mauritania) on HDX. For…
+- Topline Indicators — World Bank Group — 2026-09-28 — dataset
+  https://data.humdata.org/dataset/world-bank-country-topline-indicators
+  Data used to update country toplines in HDX. Contains data from World Bank's [data portal](http://data.worldbank.org/).
+
+## صحة (9)
+- A copula-based geo-additive approach to childhood health outcomes in five West African nations — Frontiers in Public Health — 2026-10-05 — journal-article
+  https://www.frontiersin.org/articles/10.3389/fpubh.2026.1871312/full
+  BackgroundAnemia and malnutrition are major contributors to child morbidity and mortality in Sub-Saharan Africa, particularly in West Africa where their prevalence remains high due to multifaceted socio-economic and…
+- توقعات بامتداد السحب الممطرة إلى نواكشوط وعدة ولايات — صحيفة تقدمي الإلكترونية / Taqadoumy — 2026-10-04
+  https://ar.taqadoumy.mr/archives/86415
+  قالت الهيئة الوطنية للأرصاد الجوية إن السحب الممطرة تتمركز حاليًا جنوب ولايتي الحوض الغربي ولعصابه، وعلى ولايتي كوركول ولبراكنه، إضافة إلى شرق ولاية الترارزة. وأكدت الهيئة أن هذه السحب يتوقع أن تمتد مساء اليوم وفجر غد،…
 - الموجز الإخباري #موريتانيا — صحيفة تقدمي الإلكترونية / Taqadoumy — 2026-10-03
   https://ar.taqadoumy.mr/archives/86397
   The post الموجز الإخباري #موريتانيا appeared first on صحيفة تقدمي الألكترونية .
@@ -184,16 +177,8 @@
 - Spatial variations and geographic determinants of postnatal care utilization in Sub-Saharan Africa: a multiscale geographically weighted regression — Scientific Reports — 2026-09-27 — journal-article
   https://doi.org/10.1038/s41598-026-59678-2
   Abstract Postnatal care (PNC) has substantial potential to reduce maternal and neonatal mortality through the early detection and management of complications. However, few studies have examined the spatial variation and…
-- دراسة تحذر من موجة حر في الساحل تشمل موريتانيا — صحيفة تقدمي الإلكترونية / Taqadoumy — 2026-09-26
-  https://ar.taqadoumy.mr/archives/85824
-  حذرت دراسة حديثة من تداعيات موجة حر مرتبطة بظاهرة «إل نينيو» القوية المتوقعة خلال الأشهر المقبلة، مشيرة إلى أن منطقة الساحل، التي تمتد عبر أجزاء من موريتانيا ومالي والنيجر وتشاد والسنغال ودول أخرى، ستكون من بين المناطق…
-- Universal coverage of vector control in low- and middle-income countries: Evidence from demographic and health survey data — International Journal of Infectious Diseases — 2026-09-01 — article
-  https://doi.org/10.1016/j.ijid.2026.109151
-- Predictors of In-Hospital Mortality in Acute Heart Failure: Results from a National Registry in Mauritania. — Current problems in cardiology — 2026-08-01 — paper
-  https://www.semanticscholar.org/paper/ea93dadff07e85af1f1f594c5aef6bd6044809d8
-  BACKGROUND Acute heart failure (AHF) carries substantial in-hospital mortality, yet prognostic data from sub-Saharan Africa, and particularly from Mauritania, are virtually absent. We aimed to identify independent…
 
-## بيئة (7)
+## بيئة (8)
 - وفد من شركة "تويوتا" يسلم وزيرة المياه دراسة لتحلية مياه نواذيبو — وكالة الأخبار المستقلة / Alakhbar.info — 2026-10-02
   https://www.alakhbar.info/6abfcc0e275b010001e7cd29/
   الأخبار (نواكشوط) – سلم وفد من شركة تويوتا اليابانية اليوم الج
@@ -201,6 +186,8 @@
   https://alwiam.info/ar/52181
 - Beyond the Modern Baseline: Reconstructing Marine Biodiversity Change in the Banc d’Arguin Using Sedimentary eDNA — King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology) — 2026-10-01 — dissertation
   https://doi.org/10.25781/kaust-7231e
+- Vulnérabilité du secteur de la pêche maritime face au changement climatique dans le Sahara marocain et en Mauritanie: scénarios et risques — Revue des Études Juridiques, Spatiales et de Développement — 2026-08-13 — article
+  https://journals.imist.ma/index.php/index/article/view/11208
 - 2025 Annual Performance Report for FP151: Global Subnational Climate Fund (SnCF Global) – Technical Assistance (TA) Facility — صندوق المناخ الأخضر / Green Climate Fund — 2026-07-23
   https://www.greenclimate.fund/document/2025-annual-performance-report-fp151-global-subnational-climate-fund-sncf-global-technical-assistance-ta-facility
   Annual Performance Report
@@ -218,11 +205,11 @@
 - مرصد حقوق المرأة يزور موقوفتين في ملف "مدوني الخارج" ويدعو لاحترام حقوقهما — وكالة الأخبار المستقلة / Alakhbar.info — 2026-10-03
   https://www.alakhbar.info/6ac11b3d275b010001e7cdde/
   الأخبار (نواكشوط) - أدى وفد من المرصد الوطني لحقوق المرأة والفت
-- Entrepreneuriat des jeunes et employabilité en Mauritanie : rôle des dispositifs d’accompagnement et des compétences entrepreneuriales — PRSM — 2026-10-01 — article
-  https://doi.org/10.34874/prsm/contentieux-affa-71083
 - Le ministère de l’Agriculture précise les missions des équipes chargées de l’élaboration des cartes statistiques — الوكالة الموريتانية للأنباء / Agence Mauritanienne d'Information (AMI) — 2026-10-01
   https://ami.mr/fr/archives/303519
   Le ministère de l’Agriculture et de la Souveraineté alimentaire a indiqué que, dans le cadre des préparatifs du recensement général de l’agriculture 2026, il a dépêché, en collaboration avec l’Agence nationale de la…
+- Entrepreneuriat des jeunes et employabilité en Mauritanie : rôle des dispositifs d’accompagnement et des compétences entrepreneuriales — PRSM — 2026-10-01 — article
+  https://doi.org/10.34874/prsm/contentieux-affa-71083
 - Urban refugees in Mauritania — University of Oxford — 2026-09-30 — other
   https://doi.org/10.25446/oxford.33357156
 - Dynamique de la population de plectorhynchus mediterraneus (Guichenot, 1850) du large des cotes nord de la R.I. Mauritanie — Cercetări Marine - Recherches Marines — 2026-07-31 — article
@@ -230,59 +217,61 @@
 - Statistical instability and conceptual biases in the measurement of female heads of household in sub-Saharan Africa: a multilevel econometric analysis on harmonized DHS data — Revue Africaine des Sciences Sociales et de la Sante Publique — 2026-07-20 — article
   https://revue-rasp.org/rasp/article/view/942
 
-## تعليم (6)
+## تعليم (4)
+- وزيرة التربية: أولويتنا الانتقال إلى جودة التعليم وتحسين النتائج — وكالة الأخبار المستقلة / Alakhbar.info — 2026-10-04
+  https://www.alakhbar.info/6ac2b7c9275b010001e7cec0/
+  الأخبار (نواكشوط) - قالت وزيرة التربية وإصلاح النظام التعليمي
 - وزير التربية تستعرض أمام الحكومة ترتيبات افتتاح العام الدراسي وخطة إصلاح التعليم — وكالة الوئام الوطني للأنباء / Alwiam.info — 2026-09-30
   https://alwiam.info/ar/52151
 - Rosso : la région du Trarza rend hommage aux élèves, ayant obtenu les meilleurs résultats aux examens et concours des écoles d’excellence. — الوكالة الموريتانية للأنباء / Agence Mauritanienne d'Information (AMI) — 2026-09-29
   https://ami.mr/fr/archives/303350
   La région du Trarza a organisé ce mardi, à Rosso, la quatrième édition de la cérémonie de remise des prix aux élèves ayant obtenu les meilleurs résultats aux examens de fin d’études et au concours des écoles…
-- Le Centre d’études et de recherches pédagogiques organise un séminaire sur la rentrée scolaire et les défis liés à la qualité et à l’encadrement — الوكالة الموريتانية للأنباء / Agence Mauritanienne d'Information (AMI) — 2026-09-26
-  https://ami.mr/fr/archives/303190
-  Le Centre d’études et de recherches pédagogiques, en collaboration avec la Fédération nationale des associations de parents d’élèves et d’étudiants et la commune de Ksar, a organisé samedi soir, au Centre culturel et de…
-- مركز الدراسات والأبحاث التربوية ينظم ندوة حول العودة المدرسية وتحديات الجودة والتأطير — الوكالة الموريتانية للأنباء / Agence Mauritanienne d'Information (AMI) — 2026-09-26
-  https://www.ami.mr/archives/269292
-  نظم مركز الدراسات والأبحاث التربوية، بالتعاون مع الاتحادية الوطنية لرابطات أولياء التلاميذ والطلاب وبلدية لكصر، مساء اليوم السبت بمركز بلدية لكصر للثقافة والتكوين (الأقصى)، ندوة علمية ضمن برنامجه الشهري «نقاشات حول…
-- Macroid Formation in Salmacina stellaebayensis n. sp. From Mauritania's Baie de l'Étoile With New Insights on Mitogenome Evolution in Serpulidae (Annelida) — Ecology and Evolution — 2026-01-29 — paper
-  https://www.semanticscholar.org/paper/0dec76aa7644b275fcf82a3469a4bdca5a01e8ea · PDF: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.73016
-  ABSTRACT Knowledge of serpulid diversity along the West African coast remains scarce. Here we describe Salmacina stellaebayensis n. sp. from the Baie de l'Étoile, Mauritania, a new macroid‐former generating striking…
 - Research Ethics Knowledge and Attitudes Among Physicians in Three Tertiary Hospitals in Nouakchott, Mauritania: A 2018–2019 Cross-Sectional Survey — American Journal of Medical and Clinical Research & Reviews — 2026-01-01 — journal-article
   https://doi.org/10.58372/2835-6276.1419
   Background: Research involving human participants must be conducted according to established ethical principles to protect participants and preserve scientific integrity. However, access to research ethics training and…
 
+## حقوق الإنسان (4)
+- لجنة حقوق الإنسان تكشف نتائج زيارتها لموقوفي «ملف المدونين» — صحيفة تقدمي الإلكترونية / Taqadoumy — 2026-10-04
+  https://ar.taqadoumy.mr/archives/86445
+  كشفت اللجنة الوطنية لحقوق الإنسان، اليوم الأحد، نتائج زيارة وفد منها للأشخاص الموقوفين على ذمة التحقيق في ما يعرف إعلاميا بـ«ملف المدونين»، مؤكدة عدم تسجيل مؤشرات على تعرضهم لسوء المعاملة. وترأس وفد اللجنة رئيسها محمد…
+- DR Congo: West and Central Africa: Latest Events at a glance (22–28 September 2026) — UN Office for the Coordination of Humanitarian Affairs — 2026-09-29
+  https://reliefweb.int/report/democratic-republic-congo/west-and-central-africa-latest-events-glance-22-28-september-2026 · PDF: https://reliefweb.int/attachments/c180ae17-b154-4093-8efc-d76c9239c268/WCA_LEAG-20260928-ENG.pdf
+  Please refer to the attached Infographic. Democratic Republic of the Congo Violence drives displacement and compounds humanitarian and health challenges Fighting across South Kivu and North Kivu continues to displace…
+- DR Congo: Afrique de l’Ouest et centrale : Derniers événements en bref (du 22 au 28 septembre 2026) — UN Office for the Coordination of Humanitarian Affairs — 2026-09-29
+  https://reliefweb.int/report/democratic-republic-congo/afrique-de-louest-et-centrale-derniers-evenements-en-bref-du-22-au-28-septembre-2026 · PDF: https://reliefweb.int/attachments/9464318f-9139-4a57-ab06-e4ca6ba827e9/WCA_LEAG-20260928-FRA.pdf
+  Please refer to the attached Infographic. République démocratique du Congo La violence entraîne des déplacements de population et aggrave les difficultés humanitaires et sanitaires Les combats dans le Sud-Kivu et le…
+- Mauritania: Anticipatory Action: Seeds and Cash Transfers to Protect the Dignity and Resilience of Rural Women in Guidimakha, Mauritania — Food and Agriculture Organization of the United Nations — 2026-09-28
+  https://reliefweb.int/report/mauritania/mauritania-anticipatory-action-seeds-and-cash-transfers-protect-dignity-and-resilience-rural-women-guidimakha-mauritania
+  As the Guidimakha region faces increasing risks of drought and food insecurity across the Sahel, the FAO Representation in Mauritania, with support from the United Nations Central Emergency Response Fund (CERF),…
+
 ## حوكمة وشفافية (4)
-- AD1240: Les Mauritaniens perçoivent une corruption persistante et restent insatisfaits de sa lutte — أفروباروميتر / Afrobarometer — 2026-10-02
-  https://www.afrobarometer.org/publication/ad1240-les-mauritaniens-percoivent-une-corruption-persistante-et-restent-insatisfaits-de-sa-lutte/
-  Nombreux citoyens déclarent avoir versé des pots-de-vin pour obtenir certains services publics.
 - الحوض الشرقي: اجتماع لبحث التحضيرات للعام الدراسي وتعزيز المدرسة الجمهورية — الوكالة الموريتانية للأنباء / Agence Mauritanienne d'Information (AMI) — 2026-10-02
   https://www.ami.mr/archives/269724
   ترأس والي الحوض الشرقي، السيد إسلم ولد سيدي، اليوم الجمعة بمقر الولاية في النعمة، اجتماعا خصص لمتابعة التحضيرات الجارية لانطلاق العام الدراسي 2026-2027، والوقوف على مستوى جاهزية المؤسسات التعليمية بمختلف مقاطعات…
+- AD1240: Les Mauritaniens perçoivent une corruption persistante et restent insatisfaits de sa lutte — أفروباروميتر / Afrobarometer — 2026-10-02
+  https://www.afrobarometer.org/publication/ad1240-les-mauritaniens-percoivent-une-corruption-persistante-et-restent-insatisfaits-de-sa-lutte/
+  Nombreux citoyens déclarent avoir versé des pots-de-vin pour obtenir certains services publics.
 - أحمد المقري: ينبغي اتخاذ ”سياسات شجاعة” لردم الفجوة التعليمية بين العاصمة والداخل — صحيفة تقدمي الإلكترونية / Taqadoumy — 2026-10-01
   https://ar.taqadoumy.mr/archives/86281
   أكد الخبير التربوي الدولي، أحمد المقري، أن نجاح الافتتاح الدراسي الجديد 2026_2027 مرهون بتحقيق جملة من المعايير التنظيمية الأساسية، التي تضمن جاهزية المؤسسات التعليمية لاستقبال التلاميذ في ظروف ملائمة. وأوضح المقري،…
 - Gouvernance : Moins de restrictions pour plus de résultats — لو كالام / Le Calame — 2026-09-29
   https://lecalame.info/?q=node/18980
 
-## حقوق الإنسان (4)
-- DR Congo: Afrique de l’Ouest et centrale : Derniers événements en bref (du 22 au 28 septembre 2026) — UN Office for the Coordination of Humanitarian Affairs — 2026-09-29
-  https://reliefweb.int/report/democratic-republic-congo/afrique-de-louest-et-centrale-derniers-evenements-en-bref-du-22-au-28-septembre-2026 · PDF: https://reliefweb.int/attachments/9464318f-9139-4a57-ab06-e4ca6ba827e9/WCA_LEAG-20260928-FRA.pdf
-  Please refer to the attached Infographic. République démocratique du Congo La violence entraîne des déplacements de population et aggrave les difficultés humanitaires et sanitaires Les combats dans le Sud-Kivu et le…
-- DR Congo: West and Central Africa: Latest Events at a glance (22–28 September 2026) — UN Office for the Coordination of Humanitarian Affairs — 2026-09-29
-  https://reliefweb.int/report/democratic-republic-congo/west-and-central-africa-latest-events-glance-22-28-september-2026 · PDF: https://reliefweb.int/attachments/c180ae17-b154-4093-8efc-d76c9239c268/WCA_LEAG-20260928-ENG.pdf
-  Please refer to the attached Infographic. Democratic Republic of the Congo Violence drives displacement and compounds humanitarian and health challenges Fighting across South Kivu and North Kivu continues to displace…
-- Mauritania: Anticipatory Action: Seeds and Cash Transfers to Protect the Dignity and Resilience of Rural Women in Guidimakha, Mauritania — Food and Agriculture Organization of the United Nations — 2026-09-28
-  https://reliefweb.int/report/mauritania/mauritania-anticipatory-action-seeds-and-cash-transfers-protect-dignity-and-resilience-rural-women-guidimakha-mauritania
-  As the Guidimakha region faces increasing risks of drought and food insecurity across the Sahel, the FAO Representation in Mauritania, with support from the United Nations Central Emergency Response Fund (CERF),…
-- Navigating Slavery, Gender, and Climate Change in the Islamic Republic of Mauritania — RESEARCHER — 2026-02-13 — paper
-  https://www.semanticscholar.org/paper/61474d95df52552a3d07da5a65ff28b00196e158
-  The Islamic Republic of Mauritania faces a complex human rights crisis defined by the intersection of descent-based slavery and catastrophic climate change. This paper argues that these phenomena are not merely parallel…
-
 ## تنمية (3)
+- Mauritania: Acute Food Insecurity Country Data — Integrated Food Security Phase Classification (IPC) — 2026-10-05 — dataset
+  https://data.humdata.org/dataset/mauritania-acute-food-insecurity-country-data
+  The IPC Acute Food Insecurity (IPC AFI) classification provides strategically relevant information to decision makers that focuses on short-term objectives to prevent, mitigate or decrease severe food insecurity that…
 - Disclosable Version of the ISR - Development of Energy Resources and Mining Sector Support Phase 1 Project - P179383 - Sequence No : 4 — البنك الدولي / World Bank — 2026-09-28 — Implementation Status and Results Report
   http://documents.worldbank.org/curated/en/099092826052519505 · PDF: https://documents.worldbank.org/curated/en/099092826052519505/pdf/P179383-468ff38b-c43e-4317-ae20-3c20432f87e7.pdf
 - Environmental and Social Commitment Plan (ESCP) - Mauritania - Mauritania Integrated Territorial Development Transport Connectivity and Urban Mobility Project - P519316 — البنك الدولي / World Bank — 2026-09-27 — Environmental and Social Commitment Plan
   http://documents.worldbank.org/curated/en/099092726162015601 · PDF: https://documents.worldbank.org/curated/en/099092726162015601/pdf/P519316-a05713f0-bc4e-41d1-8e8d-8d46488acb2c.pdf
-- من أطار إلى بنشاب.. رسائل الغزواني من جولة التنمية إلى اختبار النتائج — وكالة الوئام الوطني للأنباء / Alwiam.info — 2026-09-26
-  https://alwiam.info/ar/52041
+
+## تعدين وطاقة (2)
+- تحديد موعد تسليم تقرير لجنة التحقيق في حرائق صوملك — صحيفة تقدمي الإلكترونية / Taqadoumy — 2026-10-04
+  https://ar.taqadoumy.mr/archives/86425
+  أفادت مصادر خاصة لصحيفة «تقدمي» أن اللجنة المكلفة بالتحقيق في حرائق محطتي تحويل تابعتين للشركة الموريتانية للكهرباء «صوملك» لا تزال تواصل عملها، ولم تنته بعد من التحقيق. وأكدت المصادر أن اللجنة تواصل، اليوم الأحد،…
+- Photovoltaic solar energy to product green hydrogen in Nouakchott, Mauritania: technical and economical assessment — CORE / CORE (Open University) — 2026-01-01
+  https://doi.org/10.2139/ssrn.7428747
 
 ## مالية عامة (2)
 - تحليل: روسيا والنيجر.. كيف تحول التقارب الأمني إلى شراكة استراتيجية متعددة القطاعات؟ — صحيفة تقدمي الإلكترونية / Taqadoumy — 2026-10-03
@@ -297,7 +286,3 @@
 - “No One is Spared” War Crimes Committed by the Malian Army and Foreign Allied Forces along the Mauritanian Border — منظمة العفو الدولية / Amnesty International — 2026-09-29
   https://www.amnesty.org/en/documents/afr37/1347/2026/en/
   This report documents violations of international law and Malian law committed by members of the Malian armed forces and of the private military security company Wagner during joint military operations between June 2023…
-
-## تعدين وطاقة (1)
-- Photovoltaic solar energy to product green hydrogen in Nouakchott, Mauritania: technical and economical assessment — CORE / CORE (Open University) — 2026-01-01
-  https://doi.org/10.2139/ssrn.7428747
