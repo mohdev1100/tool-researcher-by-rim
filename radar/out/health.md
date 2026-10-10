@@ -1,32 +1,32 @@
 # صحة المصادر — رادار التقارير
 
-_فحص 2026-10-09_
+_فحص 2026-10-10_
 
 | المصدر | الحالة | HTTP | عناصر | مقبول | أحدث تاريخ | ملاحظة |
 |---|---|---|---|---|---|---|
-| `world-bank-documents` — World Bank — Documents & Reports (Mauritania) | ok | 200 | 100 | 65 | 2026-10-08 |  |
+| `world-bank-documents` — World Bank — Documents & Reports (Mauritania) | ok | 200 | 100 | 65 | 2026-10-09 |  |
 | `reliefweb-mauritania-primary` — ReliefWeb — updates with Mauritania as primary country | ok | 200 | 20 | 20 | 2026-10-08 |  |
 | `reliefweb-mauritania-any` — ReliefWeb — updates tagged with Mauritania among other countries (regional documents) | ok | 200 | 20 | 20 | 2026-10-08 |  |
-| `openalex-mauritania` — OpenAlex — scholarly works mentioning Mauritania | ok | 200 | 100 | 64 | 2026-10-08 | عبر curl |
+| `openalex-mauritania` — OpenAlex — scholarly works mentioning Mauritania | ok | 200 | 100 | 64 | 2026-10-09 | عبر curl |
 | `openalex-mauritanie` — OpenAlex — travaux mentionnant la Mauritanie (French) | ok | 200 | 70 | 70 | 2026-10-04 |  |
 | `crossref-mauritania` — Crossref — publications with Mauritania in the title | ok | 200 | 100 | 100 | 2026-12-31 |  |
-| `hdx-mauritania` — HDX — Humanitarian Data Exchange datasets for Mauritania | ok | 200 | 100 | 100 | 2026-10-09 |  |
+| `hdx-mauritania` — HDX — Humanitarian Data Exchange datasets for Mauritania | ok | 200 | 100 | 100 | 2026-10-10 |  |
 | `amnesty-mauritania` — Amnesty International — Mauritania | ok | 200 | 12 | 0 | 2023-11-29 |  |
 | `crisis-group` — International Crisis Group — all publications | not-modified | 304 | 0 | 0 |  |  |
 | `ansade-publications-rss` — ANSADE — publications feed | ok | 200 | 10 | 10 | 2026-09-30 |  |
 | `mauritania-finance-ministry-rss` — Ministère des Finances (Mauritanie) — feed | ok | 200 | 10 | 9 | 2026-09-21 |  |
 | `mauritania-economy-ministry-rss` — Ministère de l'Économie (Mauritanie) — feed | ok | 200 | 1 | 1 | 2026-08-12 |  |
 | `nrgi-rss` — Natural Resource Governance Institute — feed | ok | 200 | 10 | 0 | 2026-10-02 |  |
-| `wto-news-rss` — WTO — latest news feed | ok | 200 | 10 | 0 | 2026-10-08 |  |
-| `uneca-rss` — UN Economic Commission for Africa — feed | ok | 200 | 10 | 0 | 2026-10-08 |  |
+| `wto-news-rss` — WTO — latest news feed | not-modified | 304 | 0 | 0 |  |  |
+| `uneca-rss` — UN Economic Commission for Africa — feed | ok | 200 | 10 | 0 | 2026-10-09 |  |
 | `un-mauritania-rss` — UN Mauritania country team — feed | ok | 200 | 10 | 2 | 2026-09-18 |  |
-| `hrw-news-rss` — Human Rights Watch — news and reports feed | error | 403 |  | 0 |  | no usable response (fetch 403; fetch:browser-ua 403; curl 403) |
+| `hrw-news-rss` — Human Rights Watch — news and reports feed | ok | 200 | 20 | 0 | 2026-10-10 |  |
 | `amnesty-research-rss` — Amnesty International — research (reports) feed | ok | 200 | 12 | 0 | 2026-10-09 |  |
 | `freedom-house-rss` — Freedom House — feed | ok | 200 | 10 | 0 | 2026-10-07 |  |
 | `rsf-mauritania-rss-en` — Reporters Without Borders — Mauritania (EN) | ok | 200 | 50 | 1 | 2026-04-22 |  |
 | `rsf-mauritania-rss-fr` — Reporters sans frontières — Mauritanie (FR) | ok | 200 | 50 | 1 | 2026-04-22 |  |
-| `anti-slavery-international-rss` — Anti-Slavery International — feed | ok | 200 | 10 | 2 | 2026-09-25 |  |
-| `cpj-rss` — Committee to Protect Journalists — feed | ok | 200 | 10 | 0 | 2026-10-08 |  |
+| `anti-slavery-international-rss` — Anti-Slavery International — feed | not-modified | 304 | 0 | 0 |  |  |
+| `cpj-rss` — Committee to Protect Journalists — feed | ok | 200 | 10 | 0 | 2026-10-09 |  |
 | `crisis-group-mauritania-rss` — International Crisis Group — Mauritania feed | not-modified | 304 | 0 | 0 |  |  |
 | `crisis-group-sahel-rss` — International Crisis Group — Sahel feed | not-modified | 304 | 0 | 0 |  |  |
 | `crisis-group-africa-rss` — International Crisis Group — Africa feed | not-modified | 304 | 0 | 0 |  |  |
@@ -35,33 +35,33 @@ _فحص 2026-10-09_
 | `sipri-combined-rss` — SIPRI — combined feed | ok | 200 | 10 | 0 | 2026-10-09 |  |
 | `aljazeera-studies-ar-rss` — Al Jazeera Centre for Studies — Arabic feed | ok | 200 | 30 | 3 | 2026-10-07 |  |
 | `eu-iss-rss` — EU Institute for Security Studies — feed | ok | 200 | 10 | 0 | 2026-10-08 |  |
-| `wathi-rss` — WATHI — West Africa citizen think tank feed | ok | 200 | 10 | 1 | 2026-10-02 |  |
-| `jamestown-foundation-rss` — Jamestown Foundation — feed | ok | 200 | 10 | 0 | 2026-10-08 |  |
-| `iep-vision-of-humanity-rss` — Institute for Economics & Peace — Vision of Humanity feed | ok | 200 | 10 | 0 | 2026-10-07 |  |
+| `wathi-rss` — WATHI — West Africa citizen think tank feed | ok | 200 | 10 | 1 | 2026-10-09 |  |
+| `jamestown-foundation-rss` — Jamestown Foundation — feed | ok | 200 | 10 | 0 | 2026-10-09 |  |
+| `iep-vision-of-humanity-rss` — Institute for Economics & Peace — Vision of Humanity feed | not-modified | 304 | 0 | 0 |  |  |
 | `ipss-addis-rss` — Institute for Peace and Security Studies (Addis Ababa) — feed | not-modified | 304 | 0 | 0 |  |  |
 | `ids-sussex-rss` — Institute of Development Studies — feed | ok | 200 | 10 | 0 | 2026-10-02 |  |
 | `rand-new-publications-atom` — RAND — new publications feed | ok | 200 | 20 | 0 | 2026-10-08 |  |
 | `courdescomptes-mr-rss` — Cour des Comptes RSS (ar) | ok | 200 | 10 | 0 | 2026-02-18 |  |
-| `ami-ar-rss` — AMI Arabic RSS | ok | 200 | 10 | 1 | 2026-10-09 |  |
+| `ami-ar-rss` — AMI Arabic RSS | ok | 200 | 10 | 0 | 2026-10-09 |  |
 | `ami-fr-rss` — AMI French RSS | ok | 200 | 10 | 2 | 2026-10-09 |  |
 | `aprm-au-rss` — APRM (African Peer Review Mechanism) RSS | not-modified | 304 | 0 | 0 |  |  |
 | `ecowas-mauritania-search-rss` — ECOWAS site search feed for 'mauritania' | ok | 200 | 20 | 3 | 2026-10-06 |  |
 | `arab-barometer-rss` — Arab Barometer RSS | not-modified | 304 | 0 | 0 |  |  |
-| `ira-mauritanie-rss` — IRA Mauritanie RSS | ok | 200 | 10 | 0 | 2026-10-08 |  |
-| `saharamedias-report-search-rss` — Sahara Media search feed for تقرير | ok | 200 | 10 | 3 | 2026-10-09 |  |
-| `alakhbar-rss` — Al Akhbar RSS | ok | 200 | 15 | 3 | 2026-10-09 |  |
-| `lecalame-rss` — Le Calame RSS | ok | 200 | 10 | 2 | 2026-10-08 |  |
-| `taqadoumy-ar-rss` — Taqadoumy Arabic RSS | ok | 200 | 10 | 2 | 2026-10-09 |  |
-| `alwiam-rss` — Alwiam RSS | ok | 200 | 10 | 1 | 2026-10-09 |  |
+| `ira-mauritanie-rss` — IRA Mauritanie RSS | ok | 200 | 10 | 0 | 2026-10-09 |  |
+| `saharamedias-report-search-rss` — Sahara Media search feed for تقرير | ok | 200 | 10 | 3 | 2026-10-10 |  |
+| `alakhbar-rss` — Al Akhbar RSS | ok | 200 | 15 | 0 | 2026-10-09 |  |
+| `lecalame-rss` — Le Calame RSS | ok | 200 | 10 | 3 | 2026-10-10 |  |
+| `taqadoumy-ar-rss` — Taqadoumy Arabic RSS | ok | 200 | 10 | 1 | 2026-10-10 |  |
+| `alwiam-rss` — Alwiam RSS | ok | 200 | 10 | 1 | 2026-10-10 |  |
 | `mauriweb-rss` — Mauriweb RSS | ok | 200 | 10 | 0 | 2026-10-03 |  |
 | `caminando-fronteras-rss` — Caminando Fronteras – RSS | ok | 200 | 50 | 1 | 2026-09-29 |  |
-| `equality-now-rss` — Equality Now – RSS | ok | 200 | 10 | 0 | 2026-10-08 |  |
-| `world-bank-documents-api` — World Bank — Documents & Reports API (Mauritania) | ok | 200 | 100 | 52 | 2026-10-08 |  |
+| `equality-now-rss` — Equality Now – RSS | ok | 200 | 10 | 0 | 2026-10-09 |  |
+| `world-bank-documents-api` — World Bank — Documents & Reports API (Mauritania) | ok | 200 | 100 | 52 | 2026-10-09 |  |
 | `world-bank-projects-api` — World Bank — Projects API (Mauritania) | ok | 200 | 50 | 0 | 2024-12-13 |  |
 | `bcm-news-jsonapi` — Banque Centrale de Mauritanie — actualités (Drupal JSON:API) | not-modified | 304 | 0 | 0 |  |  |
 | `bcm-documents-jsonapi` — Banque Centrale de Mauritanie — uploaded documents (JSON:API media) | not-modified | 304 | 0 | 0 |  |  |
 | `ansade-publications-api` — ANSADE — publications (WordPress REST) | ok | 200 | 50 | 50 | 2026-09-30 |  |
-| `openalex-mauritania-works` — OpenAlex — reports and books mentioning Mauritania | ok | 200 | 21 | 21 | 2026-09-18 |  |
+| `openalex-mauritania-works` — OpenAlex — reports and books mentioning Mauritania | ok | 200 | 23 | 23 | 2026-09-18 |  |
 | `isdb-mauritania-country-page` — Islamic Development Bank — Mauritania country page (news) | ok | 200 | 4 | 0 | 2024-04-29 |  |
 | `afd-mauritanie-publications` — AFD — publications filtered to Mauritanie | ok | 200 | 19 | 2 | 2026-07-22 |  |
 | `imf-press-apo-newsroom` — IMF Africa press releases mirrored on APO Africa Newsroom | ok | 200 | 10 | 0 | 2026-10-06 |  |
@@ -83,7 +83,7 @@ _فحص 2026-10-09_
 | `global-hunger-index-mauritania` — Global Hunger Index — Mauritania country page | ok | 200 | 1 | 0 | 2025-10-09 |  |
 | `fsin-global-report-food-crises` — Global Network Against Food Crises / FSIN — Knowledge Hub (GRFC editions, country profiles, Hunger Hotspots) | ok | 200 | 16 | 0 | 2026-09-21 |  |
 | `fewsnet-mauritania-rss` — FEWS NET — items tagged Mauritania (feed) | ok | 200 | 10 | 1 | 2026-07-23 |  |
-| `agrhymet-cilss-rss` — AGRHYMET / CILSS regional climate centre — news, bulletins and advisories (feed) | not-modified | 304 | 0 | 0 |  |  |
+| `agrhymet-cilss-rss` — AGRHYMET / CILSS regional climate centre — news, bulletins and advisories (feed) | ok | 200 | 10 | 5 | 2026-10-10 |  |
 | `kosmos-energy-news-rss` — Kosmos Energy — news feed (GTA gas project operator) | not-modified | 304 | 0 | 0 |  |  |
 | `mauritania-environment-ministry-rss` — Ministère de l'Environnement et du Développement Durable (Mauritanie) — Arabic news feed | ok | 200 | 3 | 1 | 2026-08-12 |  |
 | `world-weather-attribution-rss` — World Weather Attribution — studies feed | not-modified | 304 | 0 | 0 |  |  |
@@ -101,14 +101,14 @@ _فحص 2026-10-09_
 | `repec-oecd-west-african-papers` — OECD/SWAC West African Papers via IDEAS/RePEc | ok | 200 | 4 | 4 |  |  |
 | `hal-api-mauritanie` — HAL open archive — works on Mauritania (API) | ok | 200 | 23 | 23 | 2026-09-06 |  |
 | `doaj-api-mauritania` — DOAJ — open-access journal articles on Mauritania | ok | 200 | 50 | 50 | 2026-10-08 |  |
-| `semantic-scholar-api-mauritania` — Semantic Scholar — papers on Mauritania | error | 429 |  | 0 |  | no usable response (fetch 429; fetch:browser-ua 429; curl 429) |
-| `nber-working-papers-mauritania` — NBER working papers mentioning Mauritania | ok | 200 | 43 | 0 | 2026-02-01 |  |
-| `core-api-mauritania` — CORE — open-access research on Mauritania | ok | 200 | 50 | 50 | 2026-10-01 |  |
+| `semantic-scholar-api-mauritania` — Semantic Scholar — papers on Mauritania | ok | 200 | 50 | 50 | 2026-10-01 |  |
+| `nber-working-papers-mauritania` — NBER working papers mentioning Mauritania | ok | 200 | 39 | 0 | 2026-02-01 |  |
+| `core-api-mauritania` — CORE — open-access research on Mauritania | ok | 200 | 50 | 50 | 2026-10-01 | عبر curl |
 | `africa-youth-portal-saiia-rss` — Africa Youth Portal (ex-Africa Portal, SAIIA) – search feed 'Mauritania' | ok | 200 | 10 | 0 | 2025-12-05 |  |
 | `the-conversation-mauritanie-atom` — The Conversation (Africa/France) – topic 'Mauritanie' Atom feed | ok | 200 | 25 | 0 | 2026-09-02 |  |
 | `mixed-migration-centre-mauritania-search` — Mixed Migration Centre – resources tagged Mauritania (4Mi West Africa) | ok | 200 | 7 | 4 | 2026-07-22 |  |
 | `who-iris-mauritania-subject` — WHO IRIS repository - items with subject Mauritania (OpenSearch Atom) | ok | 200 | 41 | 2 | 2026-02-22 |  |
-| `hrw-mauritania-country-page` — Human Rights Watch — Mauritania country page | error | 403 |  | 0 |  | no usable response (fetch 403; fetch:browser-ua 403; curl 403) |
+| `hrw-mauritania-country-page` — Human Rights Watch — Mauritania country page | ok | 200 | 14 | 0 | 2025-08-27 |  |
 | `amnesty-mauritania-country-page` — Amnesty International — Mauritania country page (documents) | ok | 200 | 8 | 0 | 2020-12-10 |  |
 | `freedom-house-fiw-mauritania` — Freedom House — Freedom in the World: Mauritania | ok | 200 | 1 | 1 | 2026-01-01 |  |
 | `civicus-monitor-mauritania` — CIVICUS Monitor — Mauritania civic space updates | ok | 200 | 6 | 3 | 2026-05-19 |  |
@@ -145,10 +145,10 @@ _فحص 2026-10-09_
 | `ecfr-posts-search-api` — ECFR — posts (commentary, policy briefs) matching Mauritania (WordPress REST) | ok | 200 | 20 | 1 | 2026-03-06 |  |
 | `atlantic-council-search-api` — Atlantic Council — posts matching Mauritania (blogs, issue briefs, reports; WordPress REST) | ok | 200 | 20 | 1 | 2026-09-28 |  |
 | `iris-france-search-api` — IRIS — analyses matching Mauritanie (WordPress REST) | ok | 200 | 20 | 2 | 2026-09-15 |  |
-| `pomeps-search-api` — POMEPS — posts matching Mauritania (POMEPS Studies chapters, memos; WordPress REST) | error | 202 |  | 0 |  | no usable response (fetch 202 text/html 317 chars; fetch:browser-ua 202 text/html 317 chars; curl 202 text/html 317 chars) |
+| `pomeps-search-api` — POMEPS — posts matching Mauritania (POMEPS Studies chapters, memos; WordPress REST) | ok | 200 | 20 | 6 | 2026-05-11 |  |
 | `egmont-institute-posts-api` — Egmont Institute — publications matching Sahel (papers, policy briefs, commentaries; WordPress REST) | ok | 200 | 20 | 4 | 2026-09-29 |  |
 | `csis-africa-program` — CSIS — Africa Program analysis (commentaries, reports; keyword-filtered) | ok | 200 | 5 | 0 | 2026-09-03 |  |
-| `brookings-africa-region` — Brookings — Africa region page (featured articles; keyword-filtered) | ok | 200 | 4 | 0 | 2026-09-18 |  |
+| `brookings-africa-region` — Brookings — Africa region page (featured articles; keyword-filtered) | ok | 200 | 4 | 0 | 2026-10-09 |  |
 | `small-arms-survey-resources` — Small Arms Survey — resources tagged Mauritania (region facet) | not-modified | 304 | 0 | 0 |  |  |
 | `timbuktu-institute-publications` — Timbuktu Institute — Publications (PDF reports, Météo Sahel bulletins, Observatory letters) | ok | 200 | 72 | 27 | 2026-09-17 |  |
 | `kas-sahel-publications` — KAS — SIPODI West / Sahel regional programme publications (Länderberichte, études) | ok | 200 | 10 | 1 | 2026-03-20 |  |
