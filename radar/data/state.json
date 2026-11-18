@@ -2,7 +2,7 @@
  "version": 1,
  "sources": {
   "world-bank-documents": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 100,
@@ -13,41 +13,41 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 265,
-   "last_ok": "2026-11-17"
+   "ms": 412,
+   "last_ok": "2026-11-18"
   },
   "reliefweb-mauritania-primary": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 20,
    "kept": 20,
-   "newest": "2026-11-13",
+   "newest": "2026-11-18",
    "etag": "",
    "last_modified": "",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 707,
-   "last_ok": "2026-11-17"
+   "ms": 518,
+   "last_ok": "2026-11-18"
   },
   "reliefweb-mauritania-any": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 20,
    "kept": 20,
-   "newest": "2026-11-17",
+   "newest": "2026-11-18",
    "etag": "",
    "last_modified": "",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 753,
-   "last_ok": "2026-11-17"
+   "ms": 503,
+   "last_ok": "2026-11-18"
   },
   "openalex-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 100,
@@ -58,26 +58,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 564,
-   "last_ok": "2026-11-17"
+   "ms": 2688,
+   "last_ok": "2026-11-18"
   },
   "openalex-mauritanie": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
-   "raw": 87,
-   "kept": 87,
+   "raw": 89,
+   "kept": 89,
    "newest": "2026-11-01",
    "etag": "",
    "last_modified": "",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 322,
-   "last_ok": "2026-11-17"
+   "ms": 5965,
+   "last_ok": "2026-11-18"
   },
   "crossref-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 100,
@@ -88,56 +88,56 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1488,
-   "last_ok": "2026-11-17"
+   "ms": 1643,
+   "last_ok": "2026-11-18"
   },
   "hdx-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 100,
    "kept": 100,
-   "newest": "2026-11-17",
+   "newest": "2026-11-18",
    "etag": "",
    "last_modified": "",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 691,
-   "last_ok": "2026-11-17"
+   "ms": 1215,
+   "last_ok": "2026-11-18"
   },
   "amnesty-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 12,
    "kept": 0,
    "newest": "2023-11-29",
-   "etag": "W/\"2d7b348366c2ccd213b9607605b72d9d\"",
-   "last_modified": "Tue, 17 Nov 2026 14:29:47 GMT",
+   "etag": "W/\"1008891408d39cae7d89ec90d0971107\"",
+   "last_modified": "Wed, 18 Nov 2026 10:20:12 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 568,
-   "last_ok": "2026-11-17"
+   "ms": 2855,
+   "last_ok": "2026-11-18"
   },
   "crisis-group": {
-   "last_run": "2026-11-17",
-   "status": "ok",
-   "http": 200,
-   "raw": 10,
+   "last_run": "2026-11-18",
+   "status": "not-modified",
+   "http": 304,
+   "raw": 0,
    "kept": 0,
    "newest": "2026-11-13",
    "etag": "W/\"1794872353\"",
    "last_modified": "Mon, 16 Nov 2026 23:39:13 GMT",
    "error": "",
    "failures": 0,
-   "via": "fetch",
-   "ms": 259,
-   "last_ok": "2026-11-17"
+   "via": "http",
+   "ms": 545,
+   "last_ok": "2026-11-18"
   },
   "afdb-news-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 403,
    "raw": 20,
@@ -152,7 +152,7 @@
    "last_ok": "2026-09-26"
   },
   "ansade-publications-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
@@ -163,11 +163,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 557,
-   "last_ok": "2026-11-17"
+   "ms": 618,
+   "last_ok": "2026-11-18"
   },
   "mauritania-finance-ministry-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
@@ -178,26 +178,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1610,
-   "last_ok": "2026-11-17"
+   "ms": 1616,
+   "last_ok": "2026-11-18"
   },
   "mauritania-economy-ministry-rss": {
-   "last_run": "2026-11-17",
-   "status": "error",
-   "http": 0,
+   "last_run": "2026-11-18",
+   "status": "ok",
+   "http": 200,
    "raw": 1,
    "kept": 1,
    "newest": "2026-08-12",
    "etag": "",
    "last_modified": "",
-   "error": "no usable response (fetch fetch failed; fetch:browser-ua fetch failed; curl curl: curl: (56) OpenSSL SSL_read: OpenSSL/3.5.5: error:0A000126:SSL routines::unexpected eof while reading, errno 0)",
-   "failures": 8,
+   "error": "",
+   "failures": 0,
    "via": "fetch",
-   "ms": 16152,
-   "last_ok": "2026-11-09"
+   "ms": 1384,
+   "last_ok": "2026-11-18"
   },
   "nrgi-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
@@ -208,101 +208,101 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 764,
-   "last_ok": "2026-11-17"
+   "ms": 415,
+   "last_ok": "2026-11-18"
   },
   "wto-news-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
    "kept": 0,
-   "newest": "2026-11-17",
-   "etag": "\"803584d77576dd1:0\"",
-   "last_modified": "Tue, 17 Nov 2026 09:27:19 GMT",
+   "newest": "2026-11-18",
+   "etag": "\"8065129c6077dd1:0\"",
+   "last_modified": "Wed, 18 Nov 2026 13:27:51 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 314,
-   "last_ok": "2026-11-17"
+   "ms": 304,
+   "last_ok": "2026-11-18"
   },
   "uneca-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
    "kept": 0,
    "newest": "2026-06-23",
-   "etag": "\"1794925286\"",
-   "last_modified": "Tue, 17 Nov 2026 14:21:26 GMT",
+   "etag": "\"1795007379\"",
+   "last_modified": "Wed, 18 Nov 2026 13:09:39 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 654,
-   "last_ok": "2026-11-17"
+   "ms": 1353,
+   "last_ok": "2026-11-18"
   },
   "un-mauritania-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
    "kept": 2,
    "newest": "2026-09-18",
-   "etag": "\"1794927781\"",
-   "last_modified": "Tue, 17 Nov 2026 15:03:01 GMT",
+   "etag": "\"1795012994\"",
+   "last_modified": "Wed, 18 Nov 2026 14:43:14 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 228,
-   "last_ok": "2026-11-17"
+   "ms": 757,
+   "last_ok": "2026-11-18"
   },
   "hrw-news-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 20,
    "kept": 0,
-   "newest": "2026-11-17",
-   "etag": "\"1794926382\"",
-   "last_modified": "Tue, 17 Nov 2026 14:39:42 GMT",
+   "newest": "2026-11-18",
+   "etag": "\"1795012595\"",
+   "last_modified": "Wed, 18 Nov 2026 14:36:35 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 232,
-   "last_ok": "2026-11-17"
+   "ms": 85,
+   "last_ok": "2026-11-18"
   },
   "amnesty-research-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 12,
    "kept": 0,
-   "newest": "2026-11-16",
-   "etag": "\"2d7b348366c2ccd213b9607605b72d9d\"",
-   "last_modified": "Tue, 17 Nov 2026 14:29:47 GMT",
+   "newest": "2026-11-17",
+   "etag": "\"1008891408d39cae7d89ec90d0971107\"",
+   "last_modified": "Wed, 18 Nov 2026 10:20:12 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1526,
-   "last_ok": "2026-11-17"
+   "ms": 224,
+   "last_ok": "2026-11-18"
   },
   "freedom-house-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
    "kept": 0,
-   "newest": "2026-11-13",
-   "etag": "W/\"1794861422\"",
-   "last_modified": "Mon, 16 Nov 2026 20:37:02 GMT",
+   "newest": "2026-11-17",
+   "etag": "W/\"1795009754\"",
+   "last_modified": "Wed, 18 Nov 2026 13:49:14 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 110,
-   "last_ok": "2026-11-17"
+   "ms": 91,
+   "last_ok": "2026-11-18"
   },
   "rsf-mauritania-rss-en": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 50,
@@ -313,11 +313,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 546,
-   "last_ok": "2026-11-17"
+   "ms": 1102,
+   "last_ok": "2026-11-18"
   },
   "rsf-mauritania-rss-fr": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 50,
@@ -328,11 +328,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 569,
-   "last_ok": "2026-11-17"
+   "ms": 932,
+   "last_ok": "2026-11-18"
   },
   "anti-slavery-international-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "not-modified",
    "http": 304,
    "raw": 0,
@@ -343,86 +343,86 @@
    "error": "",
    "failures": 0,
    "via": "http",
-   "ms": 321,
-   "last_ok": "2026-11-17"
+   "ms": 350,
+   "last_ok": "2026-11-18"
   },
   "cpj-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
    "kept": 0,
-   "newest": "2026-11-17",
-   "etag": "W/\"189e20d5317ed1191d44e32ae823f3d0\"",
-   "last_modified": "Tue, 17 Nov 2026 14:13:43 GMT",
+   "newest": "2026-11-18",
+   "etag": "W/\"3c74f0ec1336dbca5fa7849ed3cfc07a\"",
+   "last_modified": "Wed, 18 Nov 2026 14:23:45 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 241,
-   "last_ok": "2026-11-17"
+   "ms": 68,
+   "last_ok": "2026-11-18"
   },
   "crisis-group-mauritania-rss": {
-   "last_run": "2026-11-17",
-   "status": "ok",
-   "http": 200,
-   "raw": 6,
-   "kept": 3,
+   "last_run": "2026-11-18",
+   "status": "not-modified",
+   "http": 304,
+   "raw": 0,
+   "kept": 0,
    "newest": "2026-10-09",
    "etag": "W/\"1794895637\"",
    "last_modified": "Tue, 17 Nov 2026 06:07:17 GMT",
    "error": "",
    "failures": 0,
-   "via": "fetch",
-   "ms": 175,
-   "last_ok": "2026-11-17"
+   "via": "http",
+   "ms": 174,
+   "last_ok": "2026-11-18"
   },
   "crisis-group-sahel-rss": {
-   "last_run": "2026-11-17",
-   "status": "ok",
-   "http": 200,
-   "raw": 10,
-   "kept": 6,
+   "last_run": "2026-11-18",
+   "status": "not-modified",
+   "http": 304,
+   "raw": 0,
+   "kept": 0,
    "newest": "2026-04-24",
    "etag": "W/\"1794893971\"",
    "last_modified": "Tue, 17 Nov 2026 05:39:31 GMT",
    "error": "",
    "failures": 0,
-   "via": "fetch",
-   "ms": 140,
-   "last_ok": "2026-11-17"
+   "via": "http",
+   "ms": 487,
+   "last_ok": "2026-11-18"
   },
   "crisis-group-africa-rss": {
-   "last_run": "2026-11-17",
-   "status": "ok",
-   "http": 200,
-   "raw": 10,
+   "last_run": "2026-11-18",
+   "status": "not-modified",
+   "http": 304,
+   "raw": 0,
    "kept": 0,
    "newest": "2026-11-12",
    "etag": "W/\"1794874707\"",
    "last_modified": "Tue, 17 Nov 2026 00:18:27 GMT",
    "error": "",
    "failures": 0,
-   "via": "fetch",
-   "ms": 97,
-   "last_ok": "2026-11-17"
+   "via": "http",
+   "ms": 211,
+   "last_ok": "2026-11-18"
   },
   "gitoc-analysis-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 12,
    "kept": 0,
-   "newest": "2026-11-16",
-   "etag": "W/\"41b1349da7c7ee98e15eab3f21a6588f\"",
-   "last_modified": "Tue, 17 Nov 2026 11:15:48 GMT",
+   "newest": "2026-11-18",
+   "etag": "W/\"393be05c0237be50d00ea9e06e15161f\"",
+   "last_modified": "Wed, 18 Nov 2026 10:11:04 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 484,
-   "last_ok": "2026-11-17"
+   "ms": 730,
+   "last_ok": "2026-11-18"
   },
   "africa-center-spotlights-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "error",
    "http": 403,
    "raw": 10,
@@ -431,58 +431,58 @@
    "etag": "W/\"50da2130b3f6fe28a6aef849856c9d5e\"",
    "last_modified": "Fri, 09 Oct 2026 15:23:56 GMT",
    "error": "no usable response (fetch 403; fetch:browser-ua 403; curl 403)",
-   "failures": 37,
+   "failures": 38,
    "via": "fetch",
-   "ms": 159,
+   "ms": 230,
    "last_ok": "2026-10-11"
   },
   "sipri-combined-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
+   "status": "ok",
+   "http": 200,
+   "raw": 10,
+   "kept": 1,
+   "newest": "2026-11-18",
+   "etag": "\"1795009545-gzip\"",
+   "last_modified": "Wed, 18 Nov 2026 13:45:45 GMT",
+   "error": "",
+   "failures": 0,
+   "via": "fetch",
+   "ms": 2058,
+   "last_ok": "2026-11-18"
+  },
+  "aljazeera-studies-ar-rss": {
+   "last_run": "2026-11-18",
+   "status": "ok",
+   "http": 200,
+   "raw": 30,
+   "kept": 2,
+   "newest": "2026-11-15",
+   "etag": "",
+   "last_modified": "",
+   "error": "",
+   "failures": 0,
+   "via": "fetch",
+   "ms": 86,
+   "last_ok": "2026-11-18"
+  },
+  "eu-iss-rss": {
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
    "kept": 0,
    "newest": "2026-11-17",
-   "etag": "\"1794925793-gzip\"",
-   "last_modified": "Tue, 17 Nov 2026 14:29:53 GMT",
-   "error": "",
-   "failures": 0,
-   "via": "fetch",
-   "ms": 674,
-   "last_ok": "2026-11-17"
-  },
-  "aljazeera-studies-ar-rss": {
-   "last_run": "2026-11-17",
-   "status": "ok",
-   "http": 200,
-   "raw": 30,
-   "kept": 2,
-   "newest": "2026-11-12",
    "etag": "",
    "last_modified": "",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 269,
-   "last_ok": "2026-11-17"
-  },
-  "eu-iss-rss": {
-   "last_run": "2026-11-17",
-   "status": "ok",
-   "http": 200,
-   "raw": 10,
-   "kept": 0,
-   "newest": "2026-11-12",
-   "etag": "",
-   "last_modified": "",
-   "error": "",
-   "failures": 0,
-   "via": "fetch",
-   "ms": 647,
-   "last_ok": "2026-11-17"
+   "ms": 950,
+   "last_ok": "2026-11-18"
   },
   "wathi-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "not-modified",
    "http": 304,
    "raw": 0,
@@ -493,26 +493,26 @@
    "error": "",
    "failures": 0,
    "via": "http",
-   "ms": 1756,
-   "last_ok": "2026-11-17"
+   "ms": 1671,
+   "last_ok": "2026-11-18"
   },
   "jamestown-foundation-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
    "kept": 0,
-   "newest": "2026-11-16",
-   "etag": "\"31022c372e6f76fa6c01432e976689d6\"",
-   "last_modified": "Mon, 16 Nov 2026 22:21:34 GMT",
+   "newest": "2026-11-17",
+   "etag": "\"8bc35d0a616b406fe2237290cec62758\"",
+   "last_modified": "Tue, 17 Nov 2026 20:45:02 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 237,
-   "last_ok": "2026-11-17"
+   "ms": 608,
+   "last_ok": "2026-11-18"
   },
   "iep-vision-of-humanity-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "not-modified",
    "http": 304,
    "raw": 0,
@@ -523,131 +523,131 @@
    "error": "",
    "failures": 0,
    "via": "http",
-   "ms": 238,
-   "last_ok": "2026-11-17"
+   "ms": 103,
+   "last_ok": "2026-11-18"
   },
   "ipss-addis-rss": {
-   "last_run": "2026-11-17",
-   "status": "ok",
-   "http": 200,
+   "last_run": "2026-11-18",
+   "status": "error",
+   "http": 403,
    "raw": 10,
    "kept": 1,
    "newest": "2026-11-14",
    "etag": "\"4e5bb9a2909a09c242b2f9dc3b7bf3d5\"",
    "last_modified": "Tue, 17 Nov 2026 10:19:11 GMT",
-   "error": "",
-   "failures": 0,
+   "error": "no usable response (fetch 403; fetch:browser-ua 403; curl 403)",
+   "failures": 1,
    "via": "fetch",
-   "ms": 901,
+   "ms": 3894,
    "last_ok": "2026-11-17"
   },
   "ids-sussex-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
    "kept": 0,
    "newest": "2026-11-11",
-   "etag": "\"e53f680443e23e0676e49399023973f5\"",
-   "last_modified": "Tue, 17 Nov 2026 14:46:54 GMT",
+   "etag": "\"a4ba4a8686652fb871823e11b913a8a3\"",
+   "last_modified": "Wed, 18 Nov 2026 11:53:47 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 173,
-   "last_ok": "2026-11-17"
+   "ms": 576,
+   "last_ok": "2026-11-18"
   },
   "rand-new-publications-atom": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 20,
    "kept": 0,
-   "newest": "2026-11-17",
-   "etag": "W/\"4e8c-66079967e4bb5\"",
-   "last_modified": "Tue, 17 Nov 2026 14:19:52 GMT",
+   "newest": "2026-11-18",
+   "etag": "W/\"4ed2-6608d51ff6b82\"",
+   "last_modified": "Wed, 18 Nov 2026 13:52:22 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 474,
-   "last_ok": "2026-11-17"
+   "ms": 97,
+   "last_ok": "2026-11-18"
   },
   "courdescomptes-mr-rss": {
-   "last_run": "2026-11-17",
-   "status": "ok",
-   "http": 200,
+   "last_run": "2026-11-18",
+   "status": "error",
+   "http": 403,
    "raw": 10,
    "kept": 0,
    "newest": "2026-02-18",
    "etag": "",
    "last_modified": "",
-   "error": "",
-   "failures": 0,
+   "error": "no usable response (fetch 403; fetch:browser-ua 403; curl 403)",
+   "failures": 1,
    "via": "fetch",
-   "ms": 716,
+   "ms": 518,
    "last_ok": "2026-11-17"
   },
   "ami-ar-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
-   "kept": 0,
-   "newest": "2026-11-17",
+   "kept": 1,
+   "newest": "2026-11-18",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 14:19:52 GMT",
+   "last_modified": "Wed, 18 Nov 2026 14:37:58 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 3967,
-   "last_ok": "2026-11-17"
+   "ms": 3780,
+   "last_ok": "2026-11-18"
   },
   "ami-fr-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
    "kept": 0,
-   "newest": "2026-11-17",
+   "newest": "2026-11-18",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 14:56:57 GMT",
+   "last_modified": "Wed, 18 Nov 2026 14:23:10 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 7057,
-   "last_ok": "2026-11-17"
+   "ms": 4914,
+   "last_ok": "2026-11-18"
   },
   "aprm-au-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
    "kept": 3,
    "newest": "2026-11-12",
-   "etag": "\"1794927785\"",
-   "last_modified": "Tue, 17 Nov 2026 15:03:05 GMT",
+   "etag": "\"1795012998\"",
+   "last_modified": "Wed, 18 Nov 2026 14:43:18 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 313,
-   "last_ok": "2026-11-17"
+   "ms": 366,
+   "last_ok": "2026-11-18"
   },
   "ecowas-mauritania-search-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 20,
    "kept": 4,
    "newest": "2026-11-02",
-   "etag": "W/\"844aad7a6d0137aa4355b4ca25a067fc\"",
-   "last_modified": "Tue, 17 Nov 2026 13:51:14 GMT",
+   "etag": "W/\"7b3f775bf1d6b0248b3b8dbedb4cff24\"",
+   "last_modified": "Wed, 18 Nov 2026 13:13:41 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 2196,
-   "last_ok": "2026-11-17"
+   "ms": 2708,
+   "last_ok": "2026-11-18"
   },
   "escwa-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 403,
    "raw": 8,
@@ -662,7 +662,7 @@
    "last_ok": "2026-09-26"
   },
   "arab-barometer-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "not-modified",
    "http": 304,
    "raw": 0,
@@ -673,11 +673,11 @@
    "error": "",
    "failures": 0,
    "via": "http",
-   "ms": 785,
-   "last_ok": "2026-11-17"
+   "ms": 467,
+   "last_ok": "2026-11-18"
   },
   "ira-mauritanie-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
@@ -688,101 +688,101 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 642,
-   "last_ok": "2026-11-17"
+   "ms": 998,
+   "last_ok": "2026-11-18"
   },
   "saharamedias-report-search-rss": {
-   "last_run": "2026-11-17",
-   "status": "ok",
-   "http": 200,
+   "last_run": "2026-11-18",
+   "status": "error",
+   "http": 403,
    "raw": 10,
    "kept": 3,
    "newest": "2026-11-14",
    "etag": "\"4c0f3cd347e970179b5515699b77fb41-gzip\"",
    "last_modified": "Tue, 17 Nov 2026 13:33:15 GMT",
-   "error": "",
-   "failures": 0,
+   "error": "no usable response (fetch 403; fetch:browser-ua 403; curl 403)",
+   "failures": 1,
    "via": "fetch",
-   "ms": 2044,
+   "ms": 1221,
    "last_ok": "2026-11-17"
   },
   "alakhbar-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 15,
-   "kept": 0,
-   "newest": "2026-11-17",
-   "etag": "W/\"27af3-9so0oZw1OhDVnzda0Wa6/zD+OhM\"",
+   "kept": 1,
+   "newest": "2026-11-18",
+   "etag": "W/\"2f0d2-QCckDoy7eDr2w1jiaK4Fs7CKNWw\"",
    "last_modified": "",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 420,
-   "last_ok": "2026-11-17"
+   "ms": 374,
+   "last_ok": "2026-11-18"
   },
   "lecalame-rss": {
-   "last_run": "2026-11-17",
-   "status": "ok",
-   "http": 200,
+   "last_run": "2026-11-18",
+   "status": "error",
+   "http": 403,
    "raw": 10,
    "kept": 0,
    "newest": "2026-11-17",
    "etag": "\"1794927281-1\"",
    "last_modified": "Tue, 17 Nov 2026 14:54:41 GMT",
-   "error": "",
-   "failures": 0,
+   "error": "no usable response (fetch 403; fetch:browser-ua 403; curl 403)",
+   "failures": 1,
    "via": "fetch",
-   "ms": 720,
+   "ms": 983,
    "last_ok": "2026-11-17"
   },
   "taqadoumy-ar-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
    "kept": 1,
-   "newest": "2026-11-17",
-   "etag": "W/\"2a47f29193b1e289ad748f85108be531\"",
-   "last_modified": "Tue, 17 Nov 2026 14:54:20 GMT",
+   "newest": "2026-11-18",
+   "etag": "W/\"0acd017f6eaee556b66b9fceab56cf0b\"",
+   "last_modified": "Wed, 18 Nov 2026 14:39:22 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1037,
-   "last_ok": "2026-11-17"
+   "ms": 1186,
+   "last_ok": "2026-11-18"
   },
   "alwiam-rss": {
-   "last_run": "2026-11-17",
-   "status": "ok",
-   "http": 200,
+   "last_run": "2026-11-18",
+   "status": "error",
+   "http": 403,
    "raw": 10,
    "kept": 1,
    "newest": "2026-11-17",
    "etag": "\"1794927286-1\"",
    "last_modified": "Tue, 17 Nov 2026 14:54:46 GMT",
-   "error": "",
-   "failures": 0,
+   "error": "no usable response (fetch 403; fetch:browser-ua 403; curl 403)",
+   "failures": 1,
    "via": "fetch",
-   "ms": 782,
+   "ms": 752,
    "last_ok": "2026-11-17"
   },
   "mauriweb-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
    "kept": 1,
    "newest": "2026-11-06",
-   "etag": "\"1794926989-1\"",
-   "last_modified": "Tue, 17 Nov 2026 14:49:49 GMT",
+   "etag": "\"1795009911-1\"",
+   "last_modified": "Wed, 18 Nov 2026 13:51:51 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 474,
-   "last_ok": "2026-11-17"
+   "ms": 542,
+   "last_ok": "2026-11-18"
   },
   "frontex-news-releases-atom": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 403,
    "raw": 20,
@@ -797,7 +797,7 @@
    "last_ok": "2026-09-26"
   },
   "caminando-fronteras-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 50,
@@ -808,26 +808,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 2615,
-   "last_ok": "2026-11-17"
+   "ms": 2662,
+   "last_ok": "2026-11-18"
   },
   "equality-now-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "error",
-   "http": 200,
+   "http": 403,
    "raw": 10,
    "kept": 0,
    "newest": "2026-10-22",
    "etag": "\"bac87f50d64865c5cf3cc234452dfa53\"",
    "last_modified": "Wed, 04 Nov 2026 16:38:56 GMT",
-   "error": "no usable response (fetch 200 text/html 121677 chars; fetch:browser-ua 200 text/html 121677 chars; curl 200 text/html 121677 chars)",
-   "failures": 12,
+   "error": "no usable response (fetch 403; fetch:browser-ua 403; curl 403)",
+   "failures": 13,
    "via": "fetch",
-   "ms": 1538,
+   "ms": 1553,
    "last_ok": "2026-11-05"
   },
   "world-bank-documents-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 100,
@@ -838,11 +838,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 150,
-   "last_ok": "2026-11-17"
+   "ms": 454,
+   "last_ok": "2026-11-18"
   },
   "world-bank-projects-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 50,
@@ -853,26 +853,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 122,
-   "last_ok": "2026-11-17"
+   "ms": 253,
+   "last_ok": "2026-11-18"
   },
   "bcm-news-jsonapi": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 30,
    "kept": 12,
    "newest": "2026-11-04",
-   "etag": "\"1794927793\"",
-   "last_modified": "Tue, 17 Nov 2026 15:03:13 GMT",
+   "etag": "\"1795013005\"",
+   "last_modified": "Wed, 18 Nov 2026 14:43:25 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1119,
-   "last_ok": "2026-11-17"
+   "ms": 1350,
+   "last_ok": "2026-11-18"
   },
   "bcm-documents-jsonapi": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "not-modified",
    "http": 304,
    "raw": 0,
@@ -883,11 +883,11 @@
    "error": "",
    "failures": 0,
    "via": "http",
-   "ms": 580,
-   "last_ok": "2026-11-17"
+   "ms": 1049,
+   "last_ok": "2026-11-18"
   },
   "ansade-publications-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 50,
@@ -898,11 +898,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 623,
-   "last_ok": "2026-11-17"
+   "ms": 487,
+   "last_ok": "2026-11-18"
   },
   "openalex-mauritania-works": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 25,
@@ -913,11 +913,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 330,
-   "last_ok": "2026-11-17"
+   "ms": 7714,
+   "last_ok": "2026-11-18"
   },
   "imf-elibrary-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 405,
    "raw": 50,
@@ -932,7 +932,7 @@
    "last_ok": "2026-09-26"
   },
   "afdb-mauritania-publications": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 403,
    "raw": 18,
@@ -947,7 +947,7 @@
    "last_ok": "2026-09-26"
   },
   "afdb-mauritania-project-documents": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 403,
    "raw": 18,
@@ -962,7 +962,7 @@
    "last_ok": "2026-09-26"
   },
   "eiti-mauritania-country-page": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 403,
    "raw": 0,
@@ -977,22 +977,22 @@
    "last_ok": "2026-09-26"
   },
   "isdb-mauritania-country-page": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 4,
    "kept": 0,
    "newest": "2024-04-29",
-   "etag": "\"1794927794\"",
-   "last_modified": "Tue, 17 Nov 2026 15:03:14 GMT",
+   "etag": "\"1795013006\"",
+   "last_modified": "Wed, 18 Nov 2026 14:43:26 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 989,
-   "last_ok": "2026-11-17"
+   "ms": 1359,
+   "last_ok": "2026-11-18"
   },
   "afd-mauritanie-publications": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 19,
@@ -1003,26 +1003,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1879,
-   "last_ok": "2026-11-17"
+   "ms": 1325,
+   "last_ok": "2026-11-18"
   },
   "imf-press-apo-newsroom": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
    "kept": 0,
    "newest": "2026-10-14",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 15:03:14 GMT",
+   "last_modified": "Wed, 18 Nov 2026 14:43:26 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1222,
-   "last_ok": "2026-11-17"
+   "ms": 1612,
+   "last_ok": "2026-11-18"
   },
   "coface-mauritania-country-risk": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 1,
@@ -1033,26 +1033,26 @@
    "error": "",
    "failures": 0,
    "via": "curl",
-   "ms": 1471,
-   "last_ok": "2026-11-17"
+   "ms": 291,
+   "last_ok": "2026-11-18"
   },
   "reliefweb-mauritania-updates": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 20,
    "kept": 20,
-   "newest": "2026-11-13",
+   "newest": "2026-11-17",
    "etag": "",
    "last_modified": "",
    "error": "",
    "failures": 0,
    "via": "curl",
-   "ms": 366,
-   "last_ok": "2026-11-17"
+   "ms": 688,
+   "last_ok": "2026-11-18"
   },
   "unhcr-odp-mauritania-documents": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
@@ -1063,26 +1063,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 1036,
-   "last_ok": "2026-11-17"
+   "ms": 1318,
+   "last_ok": "2026-11-18"
   },
   "who-afro-mauritania-publications": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 5,
    "kept": 2,
    "newest": "2026-07-21",
-   "etag": "\"1794927796\"",
-   "last_modified": "Tue, 17 Nov 2026 15:03:16 GMT",
+   "etag": "\"1795013008\"",
+   "last_modified": "Wed, 18 Nov 2026 14:43:28 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1271,
-   "last_ok": "2026-11-17"
+   "ms": 1492,
+   "last_ok": "2026-11-18"
   },
   "fao-giews-country-brief-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 0,
@@ -1093,11 +1093,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 551,
-   "last_ok": "2026-11-17"
+   "ms": 424,
+   "last_ok": "2026-11-18"
   },
   "iom-dtm-mauritania-reports": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 403,
    "raw": 0,
@@ -1112,7 +1112,7 @@
    "last_ok": "2026-09-26"
   },
   "ohchr-treaty-bodies-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 324,
@@ -1123,56 +1123,56 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 3276,
-   "last_ok": "2026-11-17"
+   "ms": 3851,
+   "last_ok": "2026-11-18"
   },
   "unsdg-mauritania-key-documents": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 13,
    "kept": 1,
    "newest": "2026-03-31",
-   "etag": "W/\"1794927796\"",
-   "last_modified": "Tue, 17 Nov 2026 15:03:16 GMT",
+   "etag": "W/\"1795012312\"",
+   "last_modified": "Wed, 18 Nov 2026 14:31:52 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 349,
-   "last_ok": "2026-11-17"
+   "ms": 666,
+   "last_ok": "2026-11-18"
   },
   "unfpa-mauritania-publications": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 9,
    "kept": 9,
    "newest": null,
-   "etag": "W/\"1794927797\"",
-   "last_modified": "Tue, 17 Nov 2026 15:03:17 GMT",
+   "etag": "W/\"1795013009\"",
+   "last_modified": "Wed, 18 Nov 2026 14:43:29 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 4369,
-   "last_ok": "2026-11-17"
+   "ms": 2957,
+   "last_ok": "2026-11-18"
   },
   "unicef-mauritania-research-reports": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 14,
    "kept": 13,
    "newest": "2020-03-13",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 05:10:17 GMT",
+   "last_modified": "Wed, 18 Nov 2026 00:09:16 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 188,
-   "last_ok": "2026-11-17"
+   "ms": 526,
+   "last_ok": "2026-11-18"
   },
   "un-women-publications-search": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 403,
    "raw": 20,
@@ -1187,22 +1187,22 @@
    "last_ok": "2026-09-26"
   },
   "ilo-mauritania-publications": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 20,
    "kept": 1,
    "newest": "2026-09-30",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 15:03:17 GMT",
+   "last_modified": "Wed, 18 Nov 2026 14:43:29 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 2674,
-   "last_ok": "2026-11-17"
+   "ms": 2591,
+   "last_ok": "2026-11-18"
   },
   "iom-publications-search": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 403,
    "raw": 0,
@@ -1217,22 +1217,22 @@
    "last_ok": "2026-09-26"
   },
   "fews-net-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 4,
    "kept": 0,
    "newest": "2024-10-01",
-   "etag": "\"1794924028-gzip\"",
-   "last_modified": "Tue, 17 Nov 2026 14:00:28 GMT",
+   "etag": "\"1795011123-gzip\"",
+   "last_modified": "Wed, 18 Nov 2026 14:12:03 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 96,
-   "last_ok": "2026-11-17"
+   "ms": 423,
+   "last_ok": "2026-11-18"
   },
   "acaps-mauritania-crisis": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 6,
@@ -1243,11 +1243,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1092,
-   "last_ok": "2026-11-17"
+   "ms": 1229,
+   "last_ok": "2026-11-18"
   },
   "fao-giews-mauritania-country-brief": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 0,
@@ -1258,11 +1258,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 212,
-   "last_ok": "2026-11-17"
+   "ms": 335,
+   "last_ok": "2026-11-18"
   },
   "wfp-mauritania-country-page": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 6,
@@ -1273,11 +1273,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 496,
-   "last_ok": "2026-11-17"
+   "ms": 367,
+   "last_ok": "2026-11-18"
   },
   "africa-cdc-epidemic-intelligence": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 0,
    "raw": 18,
@@ -1292,7 +1292,7 @@
    "last_ok": "2026-09-26"
   },
   "eu-mauritania-sfpa-page": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 7,
@@ -1303,26 +1303,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1344,
-   "last_ok": "2026-11-17"
+   "ms": 219,
+   "last_ok": "2026-11-18"
   },
   "global-hunger-index-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 0,
    "kept": 0,
    "newest": "2025-10-09",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 15:03:20 GMT",
+   "last_modified": "Wed, 18 Nov 2026 14:43:33 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 496,
-   "last_ok": "2026-11-17"
+   "ms": 887,
+   "last_ok": "2026-11-18"
   },
   "nd-gain-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 0,
    "raw": 1,
@@ -1337,7 +1337,7 @@
    "last_ok": "2026-09-26"
   },
   "fsin-global-report-food-crises": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 16,
@@ -1348,41 +1348,41 @@
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 850,
-   "last_ok": "2026-11-17"
+   "ms": 1074,
+   "last_ok": "2026-11-18"
   },
   "fewsnet-mauritania-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
    "kept": 1,
    "newest": "2026-07-23",
-   "etag": "\"1794923599-gzip\"",
-   "last_modified": "Tue, 17 Nov 2026 13:53:19 GMT",
+   "etag": "\"1795011125-gzip\"",
+   "last_modified": "Wed, 18 Nov 2026 14:12:05 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 51,
-   "last_ok": "2026-11-17"
+   "ms": 118,
+   "last_ok": "2026-11-18"
   },
   "agrhymet-cilss-rss": {
-   "last_run": "2026-11-17",
-   "status": "not-modified",
-   "http": 304,
-   "raw": 0,
-   "kept": 0,
-   "newest": "2026-11-16",
-   "etag": "W/\"0ca0b44da10f0d3d1df1fb1d5e10bbb3\"",
-   "last_modified": "Mon, 16 Nov 2026 08:24:36 GMT",
+   "last_run": "2026-11-18",
+   "status": "ok",
+   "http": 200,
+   "raw": 10,
+   "kept": 2,
+   "newest": "2026-11-18",
+   "etag": "W/\"899b455fe294072ef485892d66cdc6a1\"",
+   "last_modified": "Wed, 18 Nov 2026 11:49:19 GMT",
    "error": "",
    "failures": 0,
-   "via": "http",
-   "ms": 586,
-   "last_ok": "2026-11-17"
+   "via": "fetch",
+   "ms": 859,
+   "last_ok": "2026-11-18"
   },
   "irena-publications-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 403,
    "raw": 9,
@@ -1397,7 +1397,7 @@
    "last_ok": "2026-09-26"
   },
   "kosmos-energy-news-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "not-modified",
    "http": 304,
    "raw": 0,
@@ -1408,56 +1408,56 @@
    "error": "",
    "failures": 0,
    "via": "http",
-   "ms": 405,
-   "last_ok": "2026-11-17"
+   "ms": 304,
+   "last_ok": "2026-11-18"
   },
   "mauritania-environment-ministry-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 3,
    "kept": 1,
    "newest": "2026-08-12",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 15:03:21 GMT",
+   "last_modified": "Wed, 18 Nov 2026 14:43:34 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 908,
-   "last_ok": "2026-11-17"
+   "ms": 1214,
+   "last_ok": "2026-11-18"
   },
   "world-weather-attribution-rss": {
-   "last_run": "2026-11-17",
-   "status": "ok",
-   "http": 200,
-   "raw": 10,
+   "last_run": "2026-11-18",
+   "status": "not-modified",
+   "http": 304,
+   "raw": 0,
    "kept": 0,
    "newest": "2026-11-12",
    "etag": "\"b76d8f83e7fa066c5a1494ba0713349c\"",
    "last_modified": "Tue, 17 Nov 2026 12:41:40 GMT",
    "error": "",
    "failures": 0,
-   "via": "fetch",
-   "ms": 3854,
-   "last_ok": "2026-11-17"
+   "via": "http",
+   "ms": 1603,
+   "last_ok": "2026-11-18"
   },
   "who-iris-mauritania-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 50,
    "kept": 0,
-   "newest": "2026-11-14",
+   "newest": "2026-11-18",
    "etag": "",
    "last_modified": "",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 840,
-   "last_ok": "2026-11-17"
+   "ms": 1101,
+   "last_ok": "2026-11-18"
   },
   "who-publications-mauritania-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 4,
@@ -1468,26 +1468,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 529,
-   "last_ok": "2026-11-17"
+   "ms": 1470,
+   "last_ok": "2026-11-18"
   },
   "who-disease-outbreak-news-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 50,
    "kept": 0,
-   "newest": "2026-11-13",
+   "newest": "2026-11-17",
    "etag": "",
    "last_modified": "",
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 568,
-   "last_ok": "2026-11-17"
+   "ms": 3663,
+   "last_ok": "2026-11-18"
   },
   "fao-knowledge-repository-mauritania-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 100,
@@ -1498,41 +1498,41 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1582,
-   "last_ok": "2026-11-17"
+   "ms": 2473,
+   "last_ok": "2026-11-18"
   },
   "gcf-projects-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 24,
    "kept": 6,
    "newest": "2026-07-23",
-   "etag": "W/\"1794927802\"",
-   "last_modified": "Tue, 17 Nov 2026 15:03:22 GMT",
+   "etag": "W/\"1795013015\"",
+   "last_modified": "Wed, 18 Nov 2026 14:43:35 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 4882,
-   "last_ok": "2026-11-17"
+   "ms": 5374,
+   "last_ok": "2026-11-18"
   },
   "sea-around-us-mauritania-eez-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 2,
    "kept": 0,
    "newest": "2021-03-31",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 14:53:33 GMT",
+   "last_modified": "Wed, 18 Nov 2026 14:33:46 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 800,
-   "last_ok": "2026-11-17"
+   "ms": 293,
+   "last_ok": "2026-11-18"
   },
   "ansade-press-releases-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 8,
@@ -1543,26 +1543,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1246,
-   "last_ok": "2026-11-17"
+   "ms": 856,
+   "last_ok": "2026-11-18"
   },
   "bcm-revue-economique-jsonapi": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 1,
    "kept": 1,
    "newest": "2026-04-07",
-   "etag": "\"1794927804\"",
-   "last_modified": "Tue, 17 Nov 2026 15:03:24 GMT",
+   "etag": "\"1795013017\"",
+   "last_modified": "Wed, 18 Nov 2026 14:43:37 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 764,
-   "last_ok": "2026-11-17"
+   "ms": 986,
+   "last_ok": "2026-11-18"
   },
   "cndh-mr-content-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 12,
@@ -1573,26 +1573,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 736,
-   "last_ok": "2026-11-17"
+   "ms": 881,
+   "last_ok": "2026-11-18"
   },
   "ami-ar-wp-search-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 20,
-   "kept": 6,
-   "newest": "2026-11-16",
+   "kept": 7,
+   "newest": "2026-11-18",
    "etag": "",
    "last_modified": "",
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 7276,
-   "last_ok": "2026-11-17"
+   "ms": 4754,
+   "last_ok": "2026-11-18"
   },
   "arab-barometer-mauritania-page": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 15,
@@ -1603,11 +1603,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 899,
-   "last_ok": "2026-11-17"
+   "ms": 625,
+   "last_ok": "2026-11-18"
   },
   "repec-oecd-west-african-papers": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 4,
@@ -1618,11 +1618,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 214,
-   "last_ok": "2026-11-17"
+   "ms": 428,
+   "last_ok": "2026-11-18"
   },
   "hal-api-mauritanie": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 27,
@@ -1633,41 +1633,41 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 817,
-   "last_ok": "2026-11-17"
+   "ms": 1176,
+   "last_ok": "2026-11-18"
   },
   "doaj-api-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 50,
    "kept": 50,
-   "newest": "2026-11-11",
+   "newest": "2026-11-18",
    "etag": "",
    "last_modified": "",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1369,
-   "last_ok": "2026-11-17"
+   "ms": 352,
+   "last_ok": "2026-11-18"
   },
   "semantic-scholar-api-mauritania": {
-   "last_run": "2026-11-17",
-   "status": "ok",
-   "http": 200,
+   "last_run": "2026-11-18",
+   "status": "error",
+   "http": 429,
    "raw": 50,
    "kept": 50,
    "newest": "2026-11-06",
    "etag": "",
    "last_modified": "",
-   "error": "",
-   "failures": 0,
+   "error": "no usable response (fetch:browser-ua 429; fetch 429; curl 429)",
+   "failures": 1,
    "via": "fetch:browser-ua",
-   "ms": 5560,
+   "ms": 9348,
    "last_ok": "2026-11-17"
   },
   "theses-fr-mauritanie": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 0,
    "raw": 50,
@@ -1682,7 +1682,7 @@
    "last_ok": "2026-09-26"
   },
   "nber-working-papers-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 12,
@@ -1693,26 +1693,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 424,
-   "last_ok": "2026-11-17"
+   "ms": 404,
+   "last_ok": "2026-11-18"
   },
   "core-api-mauritania": {
-   "last_run": "2026-11-17",
-   "status": "error",
-   "http": 429,
+   "last_run": "2026-11-18",
+   "status": "ok",
+   "http": 200,
    "raw": 50,
    "kept": 50,
    "newest": "2026-11-11",
    "etag": "",
    "last_modified": "",
-   "error": "no usable response (fetch 429; fetch:browser-ua 429; curl 429)",
-   "failures": 1,
-   "via": "fetch",
-   "ms": 10331,
-   "last_ok": "2026-11-16"
+   "error": "",
+   "failures": 0,
+   "via": "curl",
+   "ms": 42738,
+   "last_ok": "2026-11-18"
   },
   "africa-youth-portal-saiia-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
@@ -1723,11 +1723,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 3988,
-   "last_ok": "2026-11-17"
+   "ms": 4289,
+   "last_ok": "2026-11-18"
   },
   "the-conversation-mauritanie-atom": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 25,
@@ -1738,11 +1738,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 554,
-   "last_ok": "2026-11-17"
+   "ms": 439,
+   "last_ok": "2026-11-18"
   },
   "frontex-publications": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 403,
    "raw": 115,
@@ -1757,7 +1757,7 @@
    "last_ok": "2026-09-26"
   },
   "frontex-migratory-map-monthly-detections": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 403,
    "raw": 1,
@@ -1772,7 +1772,7 @@
    "last_ok": "2026-09-26"
   },
   "mixed-migration-centre-mauritania-search": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "error",
    "http": 403,
    "raw": 8,
@@ -1781,13 +1781,13 @@
    "etag": "",
    "last_modified": "",
    "error": "no usable response (fetch 403; fetch:browser-ua 403; curl 403)",
-   "failures": 20,
+   "failures": 21,
    "via": "fetch",
-   "ms": 451,
+   "ms": 366,
    "last_ok": "2026-10-28"
   },
   "who-iris-mauritania-subject": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 41,
@@ -1798,11 +1798,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 376,
-   "last_ok": "2026-11-17"
+   "ms": 540,
+   "last_ok": "2026-11-18"
   },
   "uneca-repository-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 0,
    "raw": 43,
@@ -1817,52 +1817,52 @@
    "last_ok": "2026-09-26"
   },
   "hrw-mauritania-country-page": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 14,
    "kept": 0,
    "newest": "2025-08-27",
-   "etag": "W/\"1794926446\"",
-   "last_modified": "Tue, 17 Nov 2026 14:40:46 GMT",
+   "etag": "W/\"1794992796\"",
+   "last_modified": "Wed, 18 Nov 2026 09:06:36 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 74,
-   "last_ok": "2026-11-17"
+   "ms": 45,
+   "last_ok": "2026-11-18"
   },
   "amnesty-mauritania-country-page": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 8,
    "kept": 0,
    "newest": "2020-12-10",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 15:03:31 GMT",
+   "last_modified": "Wed, 18 Nov 2026 14:43:44 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 195,
-   "last_ok": "2026-11-17"
+   "ms": 300,
+   "last_ok": "2026-11-18"
   },
   "freedom-house-fiw-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 1,
    "kept": 1,
    "newest": "2026-01-01",
    "etag": "",
-   "last_modified": "Mon, 16 Nov 2026 20:41:37 GMT",
+   "last_modified": "Wed, 18 Nov 2026 13:51:03 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 57,
-   "last_ok": "2026-11-17"
+   "ms": 157,
+   "last_ok": "2026-11-18"
   },
   "civicus-monitor-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 6,
@@ -1873,26 +1873,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 874,
-   "last_ok": "2026-11-17"
+   "ms": 1025,
+   "last_ok": "2026-11-18"
   },
   "transparency-international-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 8,
    "kept": 1,
    "newest": "2025-02-11",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 15:03:32 GMT",
+   "last_modified": "Wed, 18 Nov 2026 14:43:48 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 363,
-   "last_ok": "2026-11-17"
+   "ms": 3875,
+   "last_ok": "2026-11-18"
   },
   "walk-free-gsi-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 4,
@@ -1903,41 +1903,41 @@
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 2706,
-   "last_ok": "2026-11-17"
+   "ms": 2647,
+   "last_ok": "2026-11-18"
   },
   "fidh-mauritania-page": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 8,
    "kept": 1,
    "newest": "2026-07-30",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 15:03:32 GMT",
+   "last_modified": "Wed, 18 Nov 2026 14:43:48 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 783,
-   "last_ok": "2026-11-17"
+   "ms": 731,
+   "last_ok": "2026-11-18"
   },
   "front-line-defenders-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 7,
    "kept": 0,
    "newest": "2025-11-21",
-   "etag": "W/\"1794927378\"",
-   "last_modified": "Tue, 17 Nov 2026 14:56:18 +0000",
+   "etag": "W/\"1795013029\"",
+   "last_modified": "Wed, 18 Nov 2026 14:43:49 +0000",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 403,
-   "last_ok": "2026-11-17"
+   "ms": 1093,
+   "last_ok": "2026-11-18"
   },
   "us-state-hrr-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 1,
@@ -1948,11 +1948,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 104,
-   "last_ok": "2026-11-17"
+   "ms": 74,
+   "last_ok": "2026-11-18"
   },
   "us-state-tip-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 1,
@@ -1963,11 +1963,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 13,
-   "last_ok": "2026-11-17"
+   "ms": 16,
+   "last_ok": "2026-11-18"
   },
   "us-state-irf-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 1,
@@ -1978,11 +1978,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 13,
-   "last_ok": "2026-11-17"
+   "ms": 18,
+   "last_ok": "2026-11-18"
   },
   "us-state-hrr-editions": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 9,
@@ -1993,11 +1993,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 604,
-   "last_ok": "2026-11-17"
+   "ms": 86,
+   "last_ok": "2026-11-18"
   },
   "us-state-tip-editions": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
@@ -2008,11 +2008,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 574,
-   "last_ok": "2026-11-17"
+   "ms": 112,
+   "last_ok": "2026-11-18"
   },
   "us-state-irf-editions": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 8,
@@ -2023,11 +2023,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 562,
-   "last_ok": "2026-11-17"
+   "ms": 85,
+   "last_ok": "2026-11-18"
   },
   "gpe-mauritania-country-page": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 9,
@@ -2038,26 +2038,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 1078,
-   "last_ok": "2026-11-17"
+   "ms": 1361,
+   "last_ok": "2026-11-18"
   },
   "unesco-gem-report-publications": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 38,
    "kept": 1,
    "newest": null,
-   "etag": "",
-   "last_modified": "",
+   "etag": "W/\"1795012634\"",
+   "last_modified": "Wed, 18 Nov 2026 14:37:14 GMT",
    "error": "",
    "failures": 0,
-   "via": "curl",
-   "ms": 51402,
-   "last_ok": "2026-11-17"
+   "via": "fetch",
+   "ms": 1371,
+   "last_ok": "2026-11-18"
   },
   "ep-thinktank-mauritania-search": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 202,
    "raw": 0,
@@ -2068,26 +2068,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 119,
-   "last_ok": "2026-11-17"
+   "ms": 103,
+   "last_ok": "2026-11-18"
   },
   "eeas-delegation-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 13,
    "kept": 0,
    "newest": null,
-   "etag": "\"1794927815-gzip\"",
-   "last_modified": "Tue, 17 Nov 2026 15:03:35 GMT",
+   "etag": "\"1795013030-gzip\"",
+   "last_modified": "Wed, 18 Nov 2026 14:43:50 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1291,
-   "last_ok": "2026-11-17"
+   "ms": 917,
+   "last_ok": "2026-11-18"
   },
   "ec-intpa-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 8,
@@ -2098,26 +2098,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1497,
-   "last_ok": "2026-11-17"
+   "ms": 515,
+   "last_ok": "2026-11-18"
   },
   "ilo-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 6,
    "kept": 1,
    "newest": "2026-09-30",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 02:55:20 GMT",
+   "last_modified": "Wed, 18 Nov 2026 10:44:04 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 201,
-   "last_ok": "2026-11-17"
+   "ms": 362,
+   "last_ok": "2026-11-18"
   },
   "giwps-wps-index": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 4,
@@ -2128,11 +2128,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 221,
-   "last_ok": "2026-11-17"
+   "ms": 216,
+   "last_ok": "2026-11-18"
   },
   "dhs-program-mauritania-publications-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 7,
@@ -2143,11 +2143,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 137,
-   "last_ok": "2026-11-17"
+   "ms": 341,
+   "last_ok": "2026-11-18"
   },
   "ep-thinktank-rss": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "skipped",
    "http": 202,
    "raw": 25,
@@ -2162,7 +2162,7 @@
    "last_ok": "2026-09-26"
   },
   "us-dol-child-labor-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 1,
@@ -2173,11 +2173,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 88,
-   "last_ok": "2026-11-17"
+   "ms": 328,
+   "last_ok": "2026-11-18"
   },
   "bti-mauritania-country-report": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 1,
@@ -2188,26 +2188,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1320,
-   "last_ok": "2026-11-17"
+   "ms": 1692,
+   "last_ok": "2026-11-18"
   },
   "mo-ibrahim-foundation-publications": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 12,
    "kept": 0,
    "newest": "2026-11-09",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 10:50:02 GMT",
+   "last_modified": "Wed, 18 Nov 2026 09:05:29 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 389,
-   "last_ok": "2026-11-17"
+   "ms": 203,
+   "last_ok": "2026-11-18"
   },
   "international-idea-democracy-tracker-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 4,
@@ -2218,26 +2218,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1567,
-   "last_ok": "2026-11-17"
+   "ms": 1607,
+   "last_ok": "2026-11-18"
   },
   "afrobarometer-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
-   "raw": 10,
-   "kept": 4,
+   "raw": 0,
+   "kept": 0,
    "newest": "2026-10-02",
    "etag": "",
    "last_modified": "",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 10859,
-   "last_ok": "2026-11-17"
+   "ms": 235,
+   "last_ok": "2026-11-18"
   },
   "ecoi-net-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "not-modified",
    "http": 304,
    "raw": 0,
@@ -2248,11 +2248,11 @@
    "error": "",
    "failures": 0,
    "via": "http",
-   "ms": 609,
-   "last_ok": "2026-11-17"
+   "ms": 1040,
+   "last_ok": "2026-11-18"
   },
   "ocindex-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 1,
@@ -2263,26 +2263,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 767,
-   "last_ok": "2026-11-17"
+   "ms": 841,
+   "last_ok": "2026-11-18"
   },
   "acled-mauritania-country-page": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 2,
    "kept": 1,
    "newest": "2026-10-29",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 14:45:44 GMT",
+   "last_modified": "Wed, 18 Nov 2026 14:43:52 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 240,
-   "last_ok": "2026-11-17"
+   "ms": 1863,
+   "last_ok": "2026-11-18"
   },
   "iss-africa-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 12,
@@ -2293,41 +2293,41 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 353,
-   "last_ok": "2026-11-17"
+   "ms": 359,
+   "last_ok": "2026-11-18"
   },
   "iss-africa-iss-today": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 7,
    "kept": 1,
-   "newest": "2026-11-17",
+   "newest": "2026-11-18",
    "etag": "",
    "last_modified": "",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 194,
-   "last_ok": "2026-11-17"
+   "ms": 226,
+   "last_ok": "2026-11-18"
   },
   "iss-african-futures-mauritania": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 1,
    "kept": 1,
    "newest": "2026-06-12",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 15:03:40 GMT",
+   "last_modified": "Wed, 18 Nov 2026 14:43:54 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 890,
-   "last_ok": "2026-11-17"
+   "ms": 844,
+   "last_ok": "2026-11-18"
   },
   "carnegie-search-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 17,
@@ -2338,26 +2338,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 609,
-   "last_ok": "2026-11-17"
+   "ms": 967,
+   "last_ok": "2026-11-18"
   },
   "ecfr-posts-search-api": {
-   "last_run": "2026-11-17",
-   "status": "ok",
-   "http": 200,
+   "last_run": "2026-11-18",
+   "status": "error",
+   "http": 403,
    "raw": 20,
    "kept": 1,
    "newest": "2026-03-06",
    "etag": "",
    "last_modified": "",
-   "error": "",
-   "failures": 0,
+   "error": "no usable response (fetch 403; fetch:browser-ua 403; curl 403)",
+   "failures": 1,
    "via": "fetch",
-   "ms": 1659,
+   "ms": 712,
    "last_ok": "2026-11-17"
   },
   "atlantic-council-search-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 20,
@@ -2368,26 +2368,26 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 4972,
-   "last_ok": "2026-11-17"
+   "ms": 5448,
+   "last_ok": "2026-11-18"
   },
   "iris-france-search-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 20,
    "kept": 2,
    "newest": "2026-09-15",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 15:03:44 GMT",
+   "last_modified": "Wed, 18 Nov 2026 14:43:57 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch:browser-ua",
-   "ms": 2705,
-   "last_ok": "2026-11-17"
+   "ms": 3070,
+   "last_ok": "2026-11-18"
   },
   "pomeps-search-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 20,
@@ -2398,11 +2398,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 978,
-   "last_ok": "2026-11-17"
+   "ms": 687,
+   "last_ok": "2026-11-18"
   },
   "egmont-institute-posts-api": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 20,
@@ -2413,41 +2413,41 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 706,
-   "last_ok": "2026-11-17"
+   "ms": 654,
+   "last_ok": "2026-11-18"
   },
   "csis-africa-program": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
-   "raw": 8,
+   "raw": 7,
    "kept": 0,
    "newest": "2026-11-12",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 14:52:04 GMT",
+   "last_modified": "Wed, 18 Nov 2026 14:26:38 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 109,
-   "last_ok": "2026-11-17"
+   "ms": 153,
+   "last_ok": "2026-11-18"
   },
   "brookings-africa-region": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 4,
    "kept": 0,
    "newest": "2026-11-12",
    "etag": "",
-   "last_modified": "Tue, 17 Nov 2026 15:03:45 GMT",
+   "last_modified": "Wed, 18 Nov 2026 14:43:56 GMT",
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 88,
-   "last_ok": "2026-11-17"
+   "ms": 151,
+   "last_ok": "2026-11-18"
   },
   "small-arms-survey-resources": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "not-modified",
    "http": 304,
    "raw": 0,
@@ -2458,11 +2458,11 @@
    "error": "",
    "failures": 0,
    "via": "http",
-   "ms": 369,
-   "last_ok": "2026-11-17"
+   "ms": 609,
+   "last_ok": "2026-11-18"
   },
   "timbuktu-institute-publications": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 76,
@@ -2473,11 +2473,11 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 1009,
-   "last_ok": "2026-11-17"
+   "ms": 1994,
+   "last_ok": "2026-11-18"
   },
   "kas-sahel-publications": {
-   "last_run": "2026-11-17",
+   "last_run": "2026-11-18",
    "status": "ok",
    "http": 200,
    "raw": 10,
@@ -2488,8 +2488,8 @@
    "error": "",
    "failures": 0,
    "via": "fetch",
-   "ms": 2893,
-   "last_ok": "2026-11-17"
+   "ms": 2084,
+   "last_ok": "2026-11-18"
   }
  },
  "runs": [
@@ -3213,6 +3213,18 @@
    "new": 9,
    "seen": 830,
    "mirrors": 110,
+   "dry": false
+  },
+  {
+   "at": "2026-11-18T14:44:23.260Z",
+   "today": "2026-11-18",
+   "runner": "github",
+   "sources": 148,
+   "skipped": 18,
+   "ok": 138,
+   "new": 11,
+   "seen": 857,
+   "mirrors": 71,
    "dry": false
   }
  ]
